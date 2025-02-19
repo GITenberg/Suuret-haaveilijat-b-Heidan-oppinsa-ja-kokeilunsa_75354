@@ -1,0 +1,29 @@
+_repo: Suuret-haaveilijat-b-Heidan-oppinsa-ja-kokeilunsa_75354
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Murros, Kaapo
+    alias: Ahlqvist, David Gabriel
+    birthdate: 1875
+    deathdate: 1951
+    gutenberg_agent_id: '48786'
+    url: http://www.gutenberg.org/2009/agents/48786
+    wikipedia: https://fi.wikipedia.org/wiki/Kaapo_Murros
+description: ''
+gutenberg_issued: '2025-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75354'
+language: fi
+pgterms:marc905: 20250210060806murros
+pgterms:marc906: '1906'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aTampere :$bM. V. Vuolukka, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Suuret haaveilijat : $b Heidän oppinsa ja kokeilunsa'
+url: http://www.gutenberg.org/ebooks/75354
