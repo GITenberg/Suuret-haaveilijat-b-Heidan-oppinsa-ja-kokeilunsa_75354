@@ -1,0 +1,2534 @@
+﻿
+*** START OF THE PROJECT GUTENBERG EBOOK 75354 ***
+
+language: Finnish
+
+
+
+
+SUURET HAAVEILIJAT
+
+Heidän oppinsa ja kokeilunsa
+
+
+Kirj.
+
+KAAPO MURROS
+
+
+
+
+
+Tampereella,
+M. V. Vuolukan kustannuksella,
+1906.
+
+
+
+
+SISÄLLYS:
+
+Alkulause.
+Yhteiskuntafilosofia viime vuosisadalla.
+Saint Simon.
+Charles Fourier.
+  Fourierin järjestelmä käytännössä.
+Robert Owen.
+  Owenin kokeilut Amerikassa.
+Muita kommunistisia kokeiluja.
+  Icarialainen liike.
+Havaintoja ja mietelmiä.
+
+
+
+
+Alkulause.
+
+
+Se aine, jota tämä kirjanen käsittelee, on anteeksi antamattoman
+outoa suomalaisessa kirjallisuudessa ja suurelle osalle yleisöäkin.
+Suomalaisissa oppikouluissa käydään tämä tärkeä opintoala läpitse
+mahdollisimman hätäisesti, vain kirkkohistorian valossa, ja opetuksen
+päätarkoituksena on suojella niin sanoakseni kirkollistaloudellista
+puhdasoppisuutta nykyajan valtavaa taloudellista vallankumousaatetta
+vastaan. Saint Simon, Fourier ja Owen ovat sentakia monelle
+suomalaiselle ylioppilaallekin vain uskonnollisia kerettiläisiä, joiden
+nimet tulee unohtaa niin pian kuin mahdollista.
+
+Olen koettanut käsitellä mahdollisimman lyhyesti, vain yleiskuvauksen
+luomalla, näitä aikansa suurmiehiä, joita vapaan kilpailun tuottamassa
+jättiläiskehityksen huumauksessa maailma on väkisinkin koettanut
+unholaan painaa. Alkuperäiseen suunnitelmaan kuuluivat myös
+uskonnolliset yhteiskuntaparannelmat, mutta jäivät ne kuitenkin tästä
+pois tulevaisuudessa eri teoksena esitettäviksi.
+
+Lähteistä mainittakoon: American Communities, by W. A. Hinds 1902. —
+Social Destiny of Man, by Albert Brisbane 1840. — History of Socialism
+in the United States, by Morris Hillquit 1903. — Geschichte der
+Deutschen Socialdemokratie, von Franz Mehring, erster Band, 1903.
+
+Hancock, Mich., syyskuulla 1905.
+
+_Kaapo Murros_.
+
+
+
+
+Yhteiskuntafilosofia viime vuosisadalla.
+
+
+Ranskan vallankumous 1789 on niitä historian tapahtumia, jotka
+muodostavat käännekohdan eri ajanjaksojen välillä. Se on lähtökohtana
+uudemman ajan kehitykselle niin historiallisessa kuin valtiollisessa
+suhteessa, yhteiskunnallisessa ja taloudellisessa, filosofisessa ja
+luonnontieteellisessä sekä uskonnollisessa suhteessa, ja siitä lähtien
+eri alojen kehitykset kulkevat yhä lähemmäksi toisiaan, aivan kuin
+vastustamaton voima niitä vetäisi johonkin nielukohtaan yhtyäkseen
+sopusoinnussa johonkin yhteiseen suurkäsitteeseen. Saksalaisessa
+filosofiassa ne jo tapaavat yhteisen kulkuväylän dialektisessa
+ajattelumuodossa ja soluvat sitä myöten vihdoin materialistiseen
+historiakäsitykseen kulkeakseen sitten käsikädessä tuloksiaan
+toteuttamaan käytännöllisessä yhteiskunnan uudistustyössä.
+
+Ranskan vallankumouksen suurajattelijat olivat ehdottoman
+vallankumouksen miehiä. He eivät tunnustaneet minkäänlaista
+ylivaltaa, arvostelivat kaikkia ja repostelivat joka sopen
+olevaisessa elämässä ylösalasin, saadakseen sen järjen vaakalaudalle
+punnittavaksi ja tuomittavaksi. Uskonto, otaksumat luonnosta, valtio,
+yhteiskuntarakenne, kaikki vedettiin kirkkaaseen päivän valoon, niitä
+katseltiin epäluulolla, ja missä vähänkin oli peruste ennakkoluulolle
+vivahtavaa, se heitettiin romukasaan ja uutta ehdottoman "järjellistä"
+pystytettiin tilalle. Vuosituhanten ennakkoluulot oli tarkoitus
+masentaa ikipäiviksi, hävittää niiden mukana kaikki vääryys, sorto,
+paha ja laskea ikitotuus, ikioikeus, luonnon yhdenvertaisuus ja ihmisen
+ihmisoikeudet korkeimmiksi ja ainoiksi hallitusmiehiksi. Maailma seisoi
+päällään, sanoo kaksimielisesti Hegel tästä aikakaudesta. Järki oli
+jumala, ja järjen hallintokauden oli määrä alkaa kirkkaassa päivän
+valossa.
+
+Se oli ihannemuoto siitä porvarillisesta yhteiskunnasta jota tätä
+nykyä eletään. Aatteita toteutettaessa olivat vastakkain feodaalinen
+aatelisluokka ja aateliton "kolmas sääty", järjestymätön köyhälistö
+kintereillä. Yhdenvertaisuus tarkoitti yhdenvertaisuutta "lain edessä"
+ja vapaus tarkoitti aateliston etuoikeuksien kumoamista; veljeyshuuto
+kulki vierellä kolmantena antamassa tyydytystä pelkkänä lupauksena
+kurjuuteen vajonneelle köyhälistölle.
+
+Mutta jo tämän suuren keskiluokan liikkeen rinnalla oli syntynyt
+käsitys toisenlaisestakin luokkajaosta, sorretun ja sortajan välisestä;
+aavistettiin että yhdenvertaisuus "lain edessä" ei ollut täydellinen,
+vaan että siitä puuttui yhteiskunnallisten ja taloudellisten
+olosuhteitten yhdenvertaisuus; että vapaus ei voinut rajoittua
+luokkaetuoikeuksiin yksinomaan, vaan että luokkaerotus sellaisenaan oli
+vapautta ehkäisevä. Näihin silloisiin sivuseikkoihin iskeytyivät kiinni
+suuret utopistiset ajattelijat Saint Simon, Fourier ja Owen, jotka
+vapautuneina yleisen kehitysaskeleen riemusta jaksoivat katsella uutta
+porvarillista yhteiskuntaa puutteineen.
+
+Nämä kolme ajattelijaa eivät olleet mitään köyhälistön edustajia,
+enemmän kuin Ranskan filosofitkaan. He sulkivat teorioihinsa koko
+maailman parannuksen, ajattelematta minkään erikoisen luokan
+kohottamista yksinomaan. Mutta samalla he järjen palvelijoista erosivat
+sangen suuresti ja pitivät heidän ajattelunsa tuloksia yhtä väärinä
+kuin oli porvarillinen yhteiskuntakin. Heillä ei liioin vielä ollut
+käsitystä kehityksen johdonmukaisuudesta. Järki ja oikeus olivat
+heidän mielestään aina tähän asti olleet piilossa ihmiselämässä, ei
+ollut niiden keksijätä vielä ennen syntynyt. Nyt olivat ne löydetyt ja
+luonnollisesti heti ne myös laskettaisiin oikealle tilallensa. Ja se
+löytö oli tapahtunut sattumalta, riippumatta mistään kehitysasteesta;
+sama keksintö olisi yhtä hyvin voitu tehdä jo tuhat vuotta ennen ja
+sovittaa elämään yhtä erinomaisella menestyksellä.
+
+Tämä käsitys se heidän kommunistisille kokeilleen antoi sitkeyttä ja
+itsepäisyyttä huolimatta pettymyksistä.
+
+       *       *       *       *       *
+
+Ranskan filosofien ajatelmain luoma järjen valtio saavutti
+yhdenvertaisuutta tavoitellessaan nykyisen porvarillisen
+yhdenvertaisuuden. Järjelle perustetut laitokset osottautuivat jo heti
+alussa järjettömiksi, mahdottomiksi, ja koko järjen valtio romahti
+kokoon. Sen entiset ylpistelijät, jotka Rousseau’n "yhteiskunnallista
+sopimusta" (Contrat social) tavoitellessaan olivat luoneet hirmuvallan,
+pakenivat mitättömyytensä tunnustaen ensimäisen suurmiehen, Napoleonin,
+itsevaltiutta matelemaan ja tyytyivät ikuisen rauhan ihanuudesta
+muuttamaan sortavan valloitussodan melskeisiin. Itsevaltius oli
+ensimmäisenä tuloksena. Mutta kumous oli hävittänyt teollisuudesta
+perheellisen ammattiyhteyden, nouseva suurteollisuus lisäsi kurjuutta
+työväestölle. Uusi luokkajako kävi yhä selvemmäksi, rikkauden
+joutilaisuus erottautui köyhyyden raadannasta sitä jyrkemmin, mitä
+enemmän "käteinen raha muuttui ainoaksi yhteiskunnalliseksi siteeksi",
+kuten Carlyle sanoo. Feodaalisen aateliston röyhkeät väkivallan paheet
+väistyivät, mutta tilalle astui laillinen nylkemis- ja petospahe joka
+ennen oli vain salassa kytenyt juutalaisten koronkiskurien hökkeleissä.
+Koko liike muuttui laillistetuksi petokseksi, väkivallan tilalle astui
+lahjominen ja miekka sai rahassa vertaisensa perillisen. Avioliittokin
+tuli kaupan teoksi, haureuslaitos laajentui tavattomasti, samoin
+kapakkaliike, ja yleensä vallankumouksessa tapahtunut "järjen voitto"
+kehitti inhoittavimpia puolia yhteiskunnasta yhtä korkealle kuin
+varsinaista kehitystäkin.
+
+Utopistien iskiessä ajatuksensa yhteiskuntaan, he huomasivat siinä
+näitä kierouksia. Syvimmälle asian ytimeen pääsi Saint Simon, joka
+viime vuosisadan taittuessa havaitsi totuudeksi ja välttämättömyydeksi
+sen seikan että kaikkien ihmisten tulee tehdä työtä. Jo aikaisin
+hän myös havaitsi että politiikka on vain tuotantotiedettä ja että
+talouskysymys tulee ehdottomasti ennen pitkää politiikan nielemään.
+Toisin sanoen hän ensimmäisenä, joskin hämärästi, lausui ajatuksen
+että valtion hallituksen, sen sijaan että se ihmisiä hallitsee, tulee
+hallita asioita ja johtaa tuotantotoimintaa. Fourier taas imeytyi
+sangen purevalla ivalla kiinni yhteiskunnan paheisiin, säälimättä
+paljastaen sen huonoja puolia ja vertaillen niitä alkuperäiseen
+ihannekuvaan. Nousevaa voiton himoa ja keinottelua hän kohtelee
+kuolettavalla halveksumisella, ja pelottavalla varmuudella väitti että
+sivistyskausi muuttaa kaikki raakalaiskauden yksinkertaiset paheet
+monimutkaisiksi, hämäriksi ja ulkokullatuiksi paheiksi ja että sivistys
+liikkuu paheiden ilmakehässä, vastakkaisuuksissa, joita se alituisesti
+synnyttää kykenemättä niitä poistamaan. Sivistys siis aiheuttaa
+välttämättä omien tarkoitustensa vastakohtia. Tällä tavoin, hän
+väittää, jokaisella historiallisella kehitysasteella on samalla aikaa
+suuntansa sekä ylöspäin että alaspäin, ja siinä on siemen ihmissuvun
+tulevaiseen häviöön.
+
+Owenin lähtökohta utopistisessa ajattelussa oli käytännöllisempää
+laatua. Hän arveli että ihmisen luonne oli tulos hänen sisäisten
+ominaisuuksiensa ja häntä ympäröivän olosuhteiden yhteistoiminnasta.
+Suurteollisuudessa hän, päinvastoin kuin aikalaisensa, ei nähnyt vain
+suunnattomia edellytyksiä itsekkäälle yksilölliselle toiminnalle, vaan
+keinon millä järjestykselleen työ voidaan alottaa ihmisen onnellisuuden
+luomiseksi. Hän huomasi että uusissa olosuhteissa 2,500 työntekijää
+tuotti saman tuloksen kuin 600,000 oli tuottanut 50 vuotta ennen.
+Mihin sitten joutui erotus näiden 2,500 kuluttaman omaisuuden ja sen
+välillä, mikä olisi tarvittu noiden 600,000 kulutukseksi? Vastaus oli
+selvä. Viisi prosenttia meni pääomanomistajille korkoon ja sitäpaitsi
+300,000 puntaa suoranaiseksi voitoksi. Ja kun se yksinomaan syntyi
+työväestön ponnistuksista, täytyi sen myös oikeuden mukaan heille
+kuulua. Tarvittiin vain toteuttaa tämä ajatus käytännössä ja se
+totuutena voittaisi koko maailman. Sille perusti Owen kommunistiset
+tarkoituksensa, joista myöhemmin pitemmältä.
+
+Ennenkuin käymme näiden haaveilijain ajatuskantaa pitemmälle
+seuraamaan, esitämme heidän jälkeisensä ajan ajattelun tulokset.
+
+Ranskan valistusfilosoofien jälkeen ajattelemistieteen pääväylä siirtyi
+Saksaan ja sai siellä keskipisteensä Hegelissä. Ja hänestä lähtee uusi
+suunta, uusi systeemi, niin sanottu dialektinen ajattelumuoto, joka ei
+enää tyytynyt katselemaan ympäristöään erikoisina reposteltuina osina,
+palasina, vaan etsi ja löysi näiden palasien välisen yhteyden ja tottui
+katselemaan kaikkeutta suurena elimellisenä yhteytenä.
+
+Entinen systeemi, metafyysillinen ajattelemismuoto, oli kaikkeuden eri
+osien tutkimista sellaisenaan, luonnollinen seuraus luonnon tieteistä,
+jotka elämästä etsivät juuri yksityiskohtien erikoisominaisuuksia.
+Metafyysillinen filosofia katselee kaikkeuden osia liikkumattomina,
+pysyväisinä, kuolleina asioina. Metafyysikon silmään sattuu yksi
+kohta, hän tempasee sen erillensä, tarkastelee sitä, tutkii ja asettaa
+sen jälleen paikallensa. Hän näkee kanan, näkee munan ja kananpojan,
+tutkii ne kunkin erikseen, välittämättä siitä että ne yhteen kuuluvat.
+Hän näkee elämän, tutkii sitä, erottaa sen ehdottomasti kuolemasta,
+ollenkaan etsimättä näiden yhtymäkohtaa ja mahdollista siltaa niiden
+välillä. Elämä on elämää, kuolema kuolemaa, ne ovat toistensa
+vastakohtia ja sillä hyvä. Kaikkeudessa on vain: on, on tai ei, ei, ja
+mitä siihen lisätään, se ei kuulu asiaan.
+
+Ja kuitenkin on kaikkeudessa ehkä tärkeintä juuri se lisäys,
+yksityiskohtien suhde toisiinsa. Me näemme sen kaikkeuden olevan
+alituisessa liikkeessä, näemme siinä tapahtuvan alituista syntymistä ja
+kuolemista, yhtymistä ja eroamista, olemista ja ei olemista. Elämä ja
+kuolema ovat niin läheisessä yhteydessä että tavallisesti on mahdotonta
+sanoa, missä toinen loppuu ja missä toinen alkaa. Ahvenen sydän elää
+vielä kauan sen jälkeen, kun ruumis on pikku palasina, kuollut. Kuolema
+ei olekaan mikään yhtäkkinen "hetki", vaan vitkallisesti tapahtuva
+prosessi. Samalla tavalla jokainen kaikkeuden ilmiö alituisesti
+vaihtuu, nyt se on tämä, mutta samalla myös jo toinen. Syy ja seuraus
+ovat vissillä hetkellä tarkastettuina selvästi toisistaan erillään,
+jouduttuaan toisellaiseen asemaan, ne jo sulautuvat yhdeksi ja samaksi
+tai vaihtavat kokonaan paikkojaan. Se mitä metafyysikko silmänräpäystä
+ennen syynä ja aiheena tarkasteli, oli seuraavana hetkenä hänellä
+seurauksena tutkittavana. Ja silloin se oli hänestä vastakohta omalle
+itselleen.
+
+Darwin, kirkon piirissä pelätty ja monasti kirottu nimi, oikeastaan
+kukisti metafyysillisen filosofian todistamalla että koko orgaaninen
+luonto ihmisineen, eläimineen, kaikkineen oli luonnollinen tulos
+vuosimiljoonain kehityksestä. Ja saman periaatteen mukaisesti uusi
+saksalainen filosofia, Hegel keskipisteenä, läksi päinvastoin kuin
+metafyysikot tarkastamaan kaikkeutta liikkuvana, muuttuvana ja
+kehittyvänä. Dialektinen tutkimisjärjestelmä — siksi tätä sanottiin
+— samalla kuin se tämän kaikkeuden ominaisuuden piti tärkeimpänä,
+läksi myös etsiskelemään niitä syitä ja lakeja, jotka kaikkeuden
+liikunnon ja kehityksen vaikuttivat. Historiakaan ei tämän jälkeen enää
+ollut hurjaa, järjetöntä ja tarkoituksetonta seikkailusekamelskaa,
+vaan asteettaista kehitystä, säännöllisesti vaikuttavain voimain
+johdonmukaista työtä, ja niiden voimain selville saaminen kävi nyt ajan
+tärkeimmäksi tutkimuspykäläksi.
+
+Todellakin kaikkeutta tässä valossa tarkastellessamme me huomaamme
+olevamme tekemisissä paljon suuremmoisempain asiain kanssa kuin ikinä
+ovat olleet ne luonnon voimat, sähköt, höyryt y.m. joita esi-isämme
+muinaisuudessa ovat jumalina palvelleet. Siinä me jälleen olemme
+tekemisissä jumalan kanssa, johon meidän täytyy uskoa, koska näemme
+vaikutukset. Mutta samalla me myöskin tiedämme että aivan samoin
+kuin sähköjumala on astunut hämärän loistoiselta valtaistuimeltaan
+ihmiskunnan nöyräksi palvelijaksi, samoin astuu tämäkin kaikkeuden
+yhteisvoiman jumala kerran luoksemme sanoen ihmiskunnalle kuten
+Aladdinin taikalampun haltija: käske ja minä tottelen! Se "Tuhannen
+ja Yksi Yötä" on yhtä varma aavistus maailman kaikkeuden voimien
+ominaisuuksista kuin muinaisten suomalaisten luottamus loitsujen
+mahtavuuteen. Kun voiman syntysanat tunnet, on se käytettävissäsi.
+Se on nykyaikaisella kielellä: minkä enemmän kykenet tunkeutumaan
+kaikkivaltiaan olemukseen, sitä enemmän hän antaa mahtinsa sinun
+käytettäväksesi. Se on kaiken tieteen tarkoitus ja ydin ja sitä
+vähemmän me uskoa tähän kaikkeuden jumaluuteen tarvitsemme, mitä
+enemmän me siitä todellisuudessa tiedämme.
+
+Ja kuitenkin, kuinka vähän me itse asiassa vielä tiedämme ja kuinka
+paljon meidän täytyy uskoa! Me näemme joka hetki ympärillämme
+tuloksia, seurauksia, joiden syihin emme ole vielä voineet tutustua.
+Me emme niitä tiedä, mutta uskoa meidän täytyy, uskoa hämärästi,
+aavistellen, vaistomaisesti. Meidän oma olemuksemme nousee ehdottomasti
+kapinaan sitä useitten filosoofien rohkeata väitettä vastaan että
+ihmisellä ei ole vapaata tahtoa, vaan että hänen toimintansa, hänen
+jokainen liikkeensä ja koko elämänsä juoksu on yksityisseikkoineen
+ennakolta määrätty. Sitovilla syillä me emme voi vastakohtaa
+todistaa, päinvastoin nähdessämme, miten suuret seuraukset aiheutuvat
+vähäpätöisistä syistä, miten käden käänne tai sormen koukistus voi
+matkaan saattaa tavattomuuksia — ne kaikki vahvistavat ehdottoman
+ennakolta määrätyn kohtalon oppia. Mutta me emme sittenkään hyväksy
+sitä, vaan meidän täytyy uskoa vastakohtaan, kunnes jompi kumpi on
+todistettu.
+
+Hegelin dialektiikka ei liioin kyennyt ratkaisemaan sitä kysymystä
+minkä se esitetyksi sai. Se vain osotti ongelman minkä ratkaiseminen
+on välttämätön kaikkeuden ymmärtämiselle. Se osotti että ihmiskunnan
+historia on kehitysprosessi ja että siis ehdotonta totuutta,
+jossa jokin käsitys olisi huipussaan, ei voi olla olemassa tämän
+historian yhä jatkuessa. Siitä huolimatta se väitti oman idealistisen
+käsityksensä, että kaikki ja kaiken kehitys yleensä oli vain
+aineellinen muoto eräästä "ideasta" joka oli olemassa ennen mitään
+muuta, olevan ehdotonta totuutta ja totuuden olemusta. Dialektisen
+ajattelumuodon oma olemus jo nousi tätä vastaan ja ilmeni tämän
+idealistisen luonnon käsityksen vastakohtana, materialistisena
+käsityksenä luonnosta. Nojautuen luonnon tutkimuksen uusimpiin
+tuloksiin se väitti että luonnon tieteelläkin on historiansa, että
+kaikki luonnon kappaleetkin ovat alituisesti muuttuvia, alituisesti
+syntyviä ja alituiseen hukkuvia.
+
+Ja tällä välillä erinäiset historialliset tapahtumat olivat ruvenneet
+horjuttamaan idealisista historian käsitystä. Europan teollisuusmaissa
+alkoi suurteollisuuden erikoisluokaksi jakama köyhälistö nousta, käydä
+levottomaksi ja järjestyä. Luokkataistelu joutui yhteiskunnallisista
+tapauksista eturintaan ja toisella puolella teollisuutta vallitseva
+kapitalistiluokka alkoi käyttää hallitusmahtia omain voittoetujensa
+kohottamiseksi. Englannin chartistinen liike sekä ensimmäinen työväen
+kapina Lyonissa järkäyttivät idealistista sopusoinnun käsitystä; yhä
+selvemmäksi paljastui se taloustieteellinen valhe että kapitaalin
+ja työn edut ovat sopusointuisia, että vapaan kilpailun tulos olisi
+yleinen yhteiskunnallinen sopusointu ja hyvinvointi. Idealistinen
+käsitys ei kuitenkaan luopunut omasta olemuksestaan, se ei tunnustanut
+mitään luokkataistelua, ei edes luokkajakoa eikä halunnut antaa
+tuotannolle, taloudellisille olosuhteille eikä materialistisille
+tarpeille muuta tunnustusta kuin että ne kaikki olivat toisarvoisia
+asioita kehityksen historiassa.
+
+Uusi historian tutkimussuunta oli tästä seurauksena, ja
+materialistinen historiakäsitys syntyi. Sen perusteena oli huomio
+että kaikkien aikojen historia, ihmisen ensimmäisiä viileyden aikoja
+lukuunottamatta, on ollut luokkataistelun historiaa. Ihmiskunnassa
+on aina vallinnut taistelu ja taistelevat luokat ovat olleet
+elintarpeiden tuotannon ja niiden jakamisen tuloksia, aikansa
+taloudellisten olosuhteitten synnyttämiä. Ja tästä on seurauksena että
+koko yhteiskuntarakennuksen pohjana ja perustuksena on aineellinen
+toimeentulo, että taloudelliset syyt ovat johtavina tekijöinä niin
+hyvin lainlaadinnan kuin politiikankin alalla ja ne myös muodostavat
+uskonnolliset ja filosofiset sekä kaikki muut aatteet kunakin
+aikakautena. Luonnontieteestä oli idealistinen käsitys saanut jo ennen
+paeta materialistisen todellisuuden tieltä, nyt sen oli lähteminen
+historiastakin, viimeisestä ja lujimmasta varustuksestaan. Ihmisen koko
+olemus, tietoisuus ja toiminta sai täten luonnollisen selityksensä itse
+hänen olemassa olostansa.
+
+Ja kun tämä kerran oli päivän valoon vedetty, oli samalla myös
+päästy siitä maailman parantajain hurskaasta uskosta ettei tarvinnut
+muuta kuin teoreettisesti muodostaa paperille malliyhteiskunta,
+sovittaa se käytännölliseen elämään — ja maallinen paratiisi olisi
+valmis. Mikään "kekseliäs nero" ei enää voinut syntyä maailmaan
+yhteiskunnan uudestamuodostajaksi, vaan koko prosessi oli oleva
+luokkataistelun, köyhälistön ja kapitalistien välisen taistelun tulos.
+Sen jälkeen oli turhaa yritystä lähteä enää keksimään mahdollisimman
+parasta yhteiskuntajärjestelmää, vaan ponnistukset tuli kohdistaa
+niiden syiden selville saamiseksi, jotka olivat luokkataistelun
+kaikkine vastakkaisuuksineen aiheuttaneet, ja sen taloudellisen
+aseman ymmärtämiseksi jonka taistelu oli muodostanut. Utopististen
+kommunistien ajatukset, jotka olivat häilyneet kaikkeudesta irrallaan,
+vedettiin täten sen kaikkeuden yhteyteen kehitettäviksi tieteellisten
+totuuksien ja itse kehitysvoimain kanssa sopusoinnussa. Kommunistiset
+ajattelijat olivat nähneet vain seuraukset kapitalistisesta
+tuotantojärjestelmästä, olivat nähneet sen perustuvan köyhälistön
+riistämiseen. Mutta varsinainen tämän riistämisen selitys jäi heiltä
+keksimättä, jäi nyt vasta syntyvän tieteellisen sosialismin tehtäväksi.
+
+Sen tuli siis osottaa kapitalistisen tuotantojärjestelmän toimintatapa
+historiallisen kehityksen valossa sekä sen välttämättömyys yhtenä
+tämän kehityksen osana, jonka siis oli yhtä varmasti kuoleminen kuin
+sen kerran oli ollut pakko syntyäkin. Ja samalla oli tieteellisen
+sosialismin päästävä kapitalismin riistämisominaisuuden luonteen
+perille, josta ei vielä tunnettu muuta kuin sen vaikutus. Tämä selvisi,
+kun oli selville saatu tuotannon niin sanottu yliarvo, joka merkitsi
+että kapitalistisen tuotantojärjestelmän peruste oli maksamaton,
+korvausta vaille jäänyt työn tulos. Se samalla oli sen riistämisen
+ydin jonka saman järjestelmän tiedettiin sisältävän. Yliarvo syntyy
+siten että kapitalisti, vaikka hän ostaakin työntekijän työvoiman
+käyvästä markkinahinnasta, maksaa kuitenkin vain pienen osan sen voiman
+todellisesta arvosta; hänelle jää niin muodoin suurin osa työvoimasta
+ja sen tuloksista ilmaiseksi, omaisuudeksi jonka hankkimiseksi hän
+ei ole mitään uhrannut eikä mitään tehnyt. Se yliarvo yhä kasvattaa
+kapitaalia omistavien luokkien käsiin. Kapitalistisen tuotannon sekä
+kapitaalin tuottamisen salaisuus oli täten selvitetty, ja seuraava
+kehitysaste samalla oli ilmielävänä nähtävänä, ei minään keksittynä
+ehdotuksena, vaan syntymis- ja kuolemislain välttämättömänä tuloksena.
+
+
+
+
+Saint Simon.
+
+
+Kaikessa lyhykäisyydessään olemme edellisessä käyneet läpi viime
+vuosisadan yhteiskuntafilosofian kehitysvaiheet. Siitä "utopistiset
+sosialistit", joiksi tavallisesti sanotaan näitä haaveilijoita,
+poikkesivat syrjään ja läksivät totuutta hapuilemaan umpikuljuun
+johtavilta poluilta. Heidän erehdyksensä yksinkertaisesti johtui siitä
+etteivät tunteneet tai tunnustaneet dialektisen ajattelujärjestelmän
+paremmuutta metafyysillisen rinnalla, vaan pitivät "maailman
+parantamista" itsenäisenä, kehityksen tuloksista riippumattomana
+tehtävänä, joka voidaan suorittaa millä hetkellä tahansa vissillä
+tavalla, ja se parannus sitten on lopullinen tulos, onnellisuuden
+ylläpitäjä, ijankaikkisen sopusoinnun turva. Se vissi tapa, se oikea
+elämänjärjestelmä tarvitsee vain "keksiä", sovittaa se käytäntöön ja
+maallinen paratiisi on valmis. Koko ihmiskunta on avosylin rientävä
+omaksumaan uuden käytännöllisen evankeliumin, eikä meillä sen jälkeen
+ole muuta tekemistä kuin onnellisuuden ja veljeyden sopusoinnussa
+askaroida huvia tuottavassa työssä.
+
+Tämä käsityskanta on kaikille utopisteille yhteinen, ja ajatus
+malliyhteiskuntain perustamisesta väitteiden oikeuden todistamiseksi on
+sentakia ensimmäinen käytännöllinen aikomus heidän asiansa ajamisessa.
+Nykyaikana jo tiedetään että kapitalistinen tuotantojärjestelmä
+ei suvaitse hyvinvoipia torppareita tiluksillaan, vaan nielee ne
+ehdottomasti, ja siksi tuntuukin tämä puoli suurten haaveilijain
+toiminnassa lapselliselta kamarifilosofialta, joka ei jaksa
+tosiolojen perusteella laskea ihmisen luontoperäistä itsekkyyttä
+miksikään voimaksi. Sama utopistien käsitys vaikuttaa myös sen, että
+he vähäväkisten valtiollista yhteistoimintaa vastustavat. Rauha,
+oikeus ja yhdenvertaisuus on sellaisessa toiminnassa jo poljettu
+lokaan, ja ivaillessaan niitä vastakohtia, jotka ilmenevät ennen
+vallankumousta saarnattujen ihannejulistusten ja vallankumouksen
+jälkeisen todellisuuden välillä, he tuomitsevat koko vallankumouksen
+hyödyn. Entisiin ihanteisiin he halusivat uudelleen tarttua, nostaa ne
+porvarillisen väkivallan loasta ja todella sovittaa ne käytännölliseen
+elämään. Mutta keinot olivat aivan yksilöllistä laatua. Saint Simon
+vetosi ruhtinaaseen ja hänen mahtivaltaansa. Fourier ilmoitti olevansa
+joka päivä visseinä tunteina kotona sitä miljonääriä odottamassa,
+joka hänelle varat laittaisi yhteiskunnan uudestaan luomiseen
+ja Owen jo käytännöllisempänä muovaili ympäristöä ja nuorisoa
+uutta ihanneyhteiskuntaa varten. Luontoperäinen itsekkyys, joka
+enemmistömahdin kokoaa aivan samoinkuin vähemmistön väkivaltamahdin,
+oli yhteiskuntavoimana heille tuntematon.
+
+Näistä kolmesta utopistista oli Saint Simon epäilemättä hengeltänsä
+suurin ja kaukonäköisin. Aikansa elämään hän oli syventynyt
+sangen tarkoin. Hän syntyi 1760 Ranskan kreivillisestä suvusta,
+sai sotilaallista kasvatusta luonnollisesti, läksi Yhdysvaltain
+vapautussotaan vapauden puolesta taistelemaan ja käytti sitten aikansa
+matkustelemiseen. Kuollessaan oli hän 65 vuotias.
+
+Saint Simonin opin pääytimenä oli vapaus, elämisen, olemisen ja
+kehittymisen vapaus. Jokaiselle yksilölle tuli tämä täysi vapaus taata
+ja orjuus oli kaikissa muodoissaan perinpohjin hävitettävä. Tähän asti
+oli ihmisten kesken ollut vallitsemassa riistämisjärjestelmä, ihmiset
+olivat lähimmäisiänsä ryöstäneet ja nylkeneet, veli oli veljeänsä
+orjana pitänyt, ensin henkiorjana, sitten maaorjana. Kun niistä
+muodoista oli päästy oli luotu uusi orjuusmuoto; palkkaorja joutunut
+nyljettäväksi, jäänyt vaille inhimillisen vapauden edellytyksiä. Ja
+kuitenkin oli ihmisille varsinaisesti riistettäväksi annettu luonto
+kaikkine rikkauksineen, elantolähteineen. Luontoa yksinomaan tuli
+ihmisen pitää vallintansa alaisena, siitä oli itsekunkin toimeentulonsa
+otettava, ei siten että toinen ihminen pakotetaan raatamaan toisen
+puolesta jonkilaisessa orjuusmuodossa, vaan siten että ihmisten
+yhteyden voimalla pakotetaan luonto antiansa luovuttamaan koko
+ihmissuvun yhtäläisellä oikeudella nautittavaksi. Siinä yhteistyössä
+jokaisen yksilön tulee suorittaa osansa, ei ketään toista orjuuttaa,
+sillä työnteko on jokaisen ihmisen syntyperäinen velvollisuus.
+Rikkauden etuoikeudet ovat perinjuurin hävitettä, varsinkin
+perintöoikeus joka tyhmyristäkin tekee mahtavan. Jokaisen vainajan
+perut hallintovalta ottakoon huostaansa ja kaikki ihmiset kukin kykynsä
+mukaan niistä tulkoot osallisiksi.
+
+Ja samalla tavalla kuin luonnonriistämisen kaikkialla tulee
+astua ihmisriistämisen tilalle, täytyy hallituksenkin perusteet
+kokonaan muuttaa. Hallituskin on tähän asti ollut ihmisten vapautta
+rajoittamassa, harjoittanut orjuuttamisvaltaa ihmisten yli; siitä on
+tehtävä loppu ja hallituksen tulee hallita vain asioita, mutta jättää
+ihmiset rauhaan. Tuotanto kaikkine syrjähaaroineen kuuluu hallituksen
+johtopiiriin, muu ei. Sotajoukko ei saa olla minään herrauden
+perusteena, teollisuus ja tiede ovat sen määrääjinä, kyky ja nero
+oikeita valtiaita.
+
+Ja yhtä vähän kuin sotajoukko, saapi uskokaan olla minään tekijänä
+yhteiskunnassa. Kristillisen uskonnon tulee suuntautua kurjuutta
+poistamaan ja kurjalistoa kohottamaan sekä aineellisesti että
+henkisesti. Uskonnon päätarkoituksena tulee olla hengen ja lihan
+yhdistäminen sopusointuun, niiden keskinäisen vastakkaisuuden
+hävittäminen. Sen sopusoinnun on kristinusko hävittänyt, ja siksi
+täytyy uskonnon se uudelleen rakentaakin ja tavoittaa ihmiskunnalle
+onnea jo täällä maan päällä.
+
+Saint Simon oli toisia utopisteja siis koko joukon edellä
+siinä suhteessa että hän ymmärsi kuitenkin eri historiallisten
+kehitysasteitten oikeutuksen, ymmärsi keskiajan välttämättömyyden,
+ymmärsi maaorjuuden olevan henkiorjuutta edellä ja jälleen
+palkkaorjuuden ylempänä maaorjuutta. Entisyyden hän käsitti olevan
+pohjana tulevaisuudelle, ja nykyisyyden voitot olivat ehdottomasti
+säilytettävät, ne vain vaativat uutta järjestystä ollakseen
+siunauksellisia. Ja se uusi järjestys oli aikaansaatava yhteiskunnassa,
+hän ei tavoitellut korpimaita koekentäkseen. Itse asiassa hän oli
+vallankumouksen miehiä, vetosi kuninkuuden velvollisuudentuntoon
+asiassansa, naivisti kyllä edellyttäen että valtaistuimellakin voisi
+asustaa itsekkyydestä vapaa oikeus. Siinä uskossansa, mutta näkemättä
+mitään käytännöllistä tulosta, hän kuoli 1825 pienen oppilasparven
+ihailemana.
+
+Saint Simonin oppisuunta ei ollut pitkäikäinen. Luonnollisesti ei
+kehittymätön köyhälistö, joka vasta silloin vuosituhansia torkuksissa
+oltuaan tietämättömyyden yössä alkoi osottaa heräämisoireita, hänen
+oppejansa omaksunut, eipä niitä tuntenutkaan. Porvariston valistunein
+osa häntä kannatti. Hänen oppilaistaan on etupäässä mainittava
+Bazard. Hän se järjesti ja kehitti Sain Simonin opit yhtenäisiksi,
+vaati jo että valtion on tuotantokeinot otettava haltuunsa ja johti
+mestarin luoman järjestelmän poliittisen puoluetaistelun häläkkään.
+Tarkoituksena hänellä oli luoda vankka puolue yhteiskunnassa joka
+sitten pakottaisi hallituksen ottamaan käytäntöön uuden järjestelmän.
+Se homma ei kuitenkaan menestynyt, sillä koko oppisuunta pirstausi
+pian kahtia. Enfantin, muuan toinen Saint Simonin oppilas, läksi
+nimittäin mestarin mielipiteitä kehittämään toiseen suuntaan. Hän
+otti lähtökohdakseen Saint Simonin mielipiteet lihan ja hengen
+sopusoinnusta ja muodosti niiden pohjalle jonkinlaisen uskonnollisen
+lahkokunnan, joka saarnasi lihan eli aistillisuuden vapaata tyydytystä,
+jonkinlaista "vapaata rakkautta" ja tuomitsi avioliiton hyljättäväksi.
+Tämä aistillisuuden uskonto, jota joskus näkee selitettävän Saint
+Simonin koulukunnan varsinaiseksi perusteeksi — tietysti aivan väärin,
+koska sen ei saata sanoa siihen varsinaisesti kuuluvankaan — yhdessä
+Enfantinin mukaansa tempaavan olennon keralla, lienee vaikuttanut
+hetkellistä hurmausta koulukunnassa. Enfantin oli kiihkoilija,
+mutta järkiperäinen laskumies, osasi ennakolta arvata liikkeittensä
+seuraukset. Bazard jäi valtiollisille uudistushommineen tappiolle
+koulukunnassa ja sortui kohta sen jälkeen kuolemaan pettymystensä
+uhrina.
+
+Enfantinin voitto merkitsi kuitenkin kuoleman iskua koko
+suunnalle. Järkevimmät ja uskonnollisista kiihkoiluista vapaat
+vetäytyivät liikkeestä pois, ja koko liike suistui perikatoon, kun
+hallitus hiukan alkoi sitä ahdistaa. Toiset jäsenistä alentuivat
+pörssikeinottelijoiksi, mammonan palvelijoiksi, vakaumukseltaan
+vankimmat yhtyivät Fourieriin.
+
+Oppisuunnan apostoleista on vielä mainittava Buchez, Bazardin
+asetoveri. Enfantinin voiton jälkeen hän varsinaisesta koulukunnasta
+erosi ja alkoi yhteiskunnallisella alalla toimia työväen yhteyksien
+hyväksi. Työväestön tuli muodostaa tuotantoveljeskuntia, ei siinä
+mielessä että työväestön jäsenistä tulisi isäntiä, vaan siinä että
+työväestö kokonaan pääsisi palkkaorjuudesta. Näiden veljeskuntain
+voitosta vissi osa tuli luovuttaa "jakamattomaan pääomaan", jonka
+ympärille siten vähitellen koko työväestö kertyisi itsenäisiksi
+tuottajiksi. Hänen oppiinsa sisältyi sen ohessa ihmisen kehittyminen
+siveellisesti täydelliseksi, joka tapahtuisi siten että ehdottomasti
+noudatetaan kristillisyyden siveysvaatimuksia sellaisina kuin ne
+katoolilaisessa kirkossa esiintyvät. Buchezin oppisuunnalla on kyllä
+merkityksensä juuri näiden tuotantoveljeskuntain takia, koska ne ovat
+Ranskan työväestössä herättäneet voimakasta yhteenkuuluvaisuustunnetta.
+
+Saint Simonin oppisuunnalla ei käytännössä ollut siis hetikään niin
+suurta merkitystä kuin toisilla haaveilijoilla. Mestarin kuoltua koko
+aate lamautui. Mutta yhteiskunnalliseen ajattelemiseen ovat hänen
+mielipiteensä sangen suuresti vaikuttaneet, ja jo se seikka, että
+hän kapitalistisen tuotantojärjestelmän syntyessä oli niin paljon
+yläpuolella aikalaisiaan että näki sen suuret varjopuolet, on omiansa
+kohottamaan Saint Simonin viime vuosisadan suurmiesten joukkoon. Se
+kiroleima, minkä kirkollisporvarillinen yhteiskunta-aines on häneen
+painanut, poistuu väkisinkin heti kun yhteiskunnan muuttumattomuuden
+valheoppi ennakkoluulona hyljätään. Ja nyt se jo alkaa olla
+hylkytavaraa — 100 vuotta Saint Simonin kuoleman jälkeen.
+
+
+
+
+Charles Fourier.
+
+
+Saint Simon oli syvämietteinen ajattelija, Fourier repivä arvostelija,
+mutta myös haaveilija tämän sanan täydellisimmässä merkityksessä.
+
+Charles Fourier syntyi 1772. Hän oli kauppiaan poika ja itsekin
+kauppias, vaikka ei koskaan liene pitkälle kehittynyt tässä
+"jalossa valehtelemistaiteessa", kuten hän ammattiansa varsin
+vähän kunnioittaen sitä nimitti. Sitä innokkaammin hän harrasti
+maantiedettä, tähtitiedettä, kemiaa ja fysiikkaa ja kiinnitti
+kaupparetkillänsä paljon enemmän huomiota yhteiskunnallisiin
+olosuhteisiin kuin "valehtelemiseen". Vuonna 1820 hän kokonaan
+antausi yhteiskunnallisten ja filosoofisten ongelmain tutkimiseen,
+kehitti omituista maailmankatsomustaan, rakenteli tuulen tupia ja
+uskoi niihin ehdottomasti. Ja tässä uskossa vähääkään horjumatta hän
+vuonna 1837 kuoli yhtä köyhänä kuin Saint Simon ja tuhannet muut,
+joille yhteiskunta vain tylyä puoltaan kääntää, kun eivät sen mieliksi
+ajatella tahdo.
+
+Pitkä kokemus kauppaliikkeessä oli perehdyttänyt Fourierin
+liike-elämän salaisuuksiin ja hän selvästi sai kokea sen pohjattoman
+ristiriitaisuuden mikä oli olemassa todellisuuden ja sen
+ihanteellisuuden välillä jota uusien olosuhteitten tuloksena oli
+saarnattu. Hän näki ja koki, miten valtiomiesten kaikki valtioviisaus
+kehittyi yksinomaan porvarillisten tuotantoa edistämään, miten suuret
+kaappaukset, mannermaan sulkemiset [Napoleonin toimenpide. Tarkoitti
+kaikkien Europan valtojen yhtymistä liittoon joka pitäisi Europan
+mantereen suljettuna Englannin tuotteilta. Yritys meni myttyyn.]
+sodat ja armeijain varustamiset tapahtuivat vain valtaan päässeitten
+kapitaalin omistajain hyödyksi, vaikka niille koreasti annettiin kansan
+hyödyttämisen leima. Terävämmin hänen arvostelunsa sen takia iski
+olosuhteisiin joihin oli suuren vallankumouksen kautta päästy. Hän
+repäsi pirstoiksi koko sen valheverhon, joka oli todellisuuden eteen
+pingotettu ja jonka takana kansa yhä odotti niitä ihanteellisia onnen
+oloja mitä sille oli lupailtu ja ennusteltu.
+
+Reposteltuaan rikki kapitalistisen yhteiskunnan ihanteellisuuden,
+Fourier ryhtyi luomaan uutta. Mielikuvituksensa koko voimalla hän
+antausi tulevaisuuden unelmoihin, rakensi uuden yhteiskunnan
+pienimpiäkin yksityiskohtiaan myöten, teoreettisesti nerokkaan,
+matemaattisesti tarkan. Mikään ei unohtunut, ja koko maailman
+tulevaisuus oli hänellä yhtä varmana, yhtä ehdottomana kuin
+puutarhurille on se hedelmä minkä hänen istuttamansa taimi
+tulevaisuudessa kantaa. Varmempanakin, sillä Fourier ei tyytynyt
+ainoastaan hedelmään, hän määräsi ennakolta puunsa joka haaran, oksan
+ja joka lehdenkin.
+
+Fourierin lähtökohtana ei ole omaisuuden epätasaisuus — sen edellyttää
+hänen järjestelmänsäkin — eikä yleinen köyhäin kurjuus, kuten
+utopisteillä tavallisesti, vaan hän teroittaa pääasiallisesti tuotannon
+mahdotonta suuruutta ja siinä vallitsevaa anarkiaa, sekamelskaa, joka
+vaikuttaa että koko toivottu ihannemaailma on pirstoiksi särkynyt ja
+työn asema tuotannossa on kokonaan väärässä suhteessa. Ei hän liioin
+vetoa ihmisten tunteisiin, ei sääliväisyyteen eikä armeliaisuuden
+harjoittamiseen. Ihmisen omat aineelliset edut hän vetää esille, vaatii
+järjestystä yhteiskunnassa ja tuotannossa sopusointua, ei sentakia
+että siveellinen ja jumalallinen oikeus olisi sitä pyytämässä, vaan
+siksi että järjestys kaikille ihmisille tuottaa sen mitä nyt ei ole
+kellään ja että tämä oikeus on järjestyksen välttämätön seuraus.
+Jumala on maailman kaikkeuden luonut sopusointuiseksi, hän opettaa, ja
+tämän kaikkeuden eri yksityiskohtien välillä täytyy sentakia vallita
+sopusointuinen suhde; elävä ja kuollut (liikkumaton) luonto, ihminen,
+Jumala, maailma ja yleensä kaikkeus, universumi, on sopusoinnussa
+keskenään. Ja sama on laita ihmisten halujen ja taipumusten, niitäkään
+ei ole tukahuttamista varten luotu, vaan päinvastoin vapaata järkevätä
+käyttöä varten. Ihmisen intohimot, halut ja taipumukset eivät siis
+millään tavoin ole paheina yhteiskunnassa, kun vain yhteiskunnan olot
+ovat oikein järjestetyt. Ja yhteiskunnan tulee ensi kädessä taata
+jäsenilleen näiden intohimojen, halujen ja taipumusten vapaa tyydytys.
+
+Mitkä sitten ovat ihmisen intohimot?
+
+Tarkasti luokittelee Fourier ne, löytää ihmisestä kaksitoista eri
+intohimoa, jotka kolmeen eri osastoon jaettuina lajitellaan seuraavasti
+(Brisbane: Social Destiny of Man.):
+
+Viisi tunneintohimoa:
+
+Näkö Kuulo Haju Maku Tunto
+
+Neljä mieltymysintohimoa:
+
+Ystävyys Rakkaus Kunnianhimo Isällisyys
+
+Kolme johtavaa intohimoa:
+
+Kilpailu Vaihtelu Yhdistely
+
+Ensimmäinen intohimojen osasto, jos niitä oikein käytetään, saavat
+aikaan ihmiskunnassa hienoutta, taideaistia, terveyttä, iloa ja
+elämänhalua. Toinen joukko jälleen jalostaa ihmisten keskinäisiä
+suhteita, luo sopusointua, tasapainoa rakentaa. Kolmas intohimojen
+osasto, Fourierin itsensä keksimä, on vaikuttavana tekijänä
+tuotannossa. Eri tuotantokuntain välinen kilpailu vaikuttaa oikein
+käytettynä mitä paraimpain tuotteiden syntymiseen, kiihoittaa
+parannuksien toimeenpanemiseen tuotannossa ja on keksimiskyvyn
+alituinen vaikutin ja ehtymätön lähde. Vaihtelu jälleen hävittää
+yksitoikkoisuuden joka nykyisessä työjärjestyksessä vallitsee ja
+tekee työn huvittavaksi, viehättäväksi, sellaiseksi jota kaipaa ja
+joka tuottaa tyydytystä. Yhdistelyn intohimo vihdoin täydentää työstä
+lähtevän nautinnon. Se merkitsee useammanlaisen halun tyydyttämistä
+yhdellä kertaa, esimerkiksi mieluisan toverin seurassa ihanan musiikin
+kuulemista ja ehkä vielä taiteen katselemista. Tuotantoon sovitettuna
+se on mieluisan työn suorittamista toverien seurassa joihin on
+sydämmellään kiintynyt.
+
+Kun näiden intohimojen vapaa tyydytys taataan varmaksi, on tuloksena
+"Ryhmien" ja "Sarjojen" muodostuminen. Ryhmä on Brisbanen määritelmän
+mukaan "kolmen, seitsemän, kahdeksantoista tai useamman henkilön
+yhteys, jotka vapaasti ja omasta tahdostaan ovat liittyneet yhteen
+toteuttamaan jotakin tarkoitusta, joko ammatillista tai huvittavaa.
+Mutta tarkoin teoreettisesti määritellen me ymmärrämme Ryhmällä joukkoa
+joka on liittynyt yhteen maun yhtäläisyyden takia harjoittamaan jotakin
+teollisuuden, tieteen tai taiteen haaraa".
+
+Täydelliseen Ryhmään kuuluu vähintäin seitsemän henkilöä, nämä
+jälleen muodostavat kolme alaryhmää, kolme henkeä keskustassa, kaksi
+kummallakin siivellä. Kunkin Ryhmän kaksi siipeä edustaa kahta
+vastakkaista äärimmäisyyttä makujen ja taipumusten suhteen, keskusta
+taas on tasapainon ylläpitäjänä näiden äärimmäisyyksien välillä.
+
+Sarja muodostuu eri ryhmistä, joita pitää vähintäin olla viisi, samalla
+tavalla kuin Ryhmä yksilöistä. Esimerkiksi Sarja, joka kasvattaa
+karjaa, jakaantuu niin moneen Ryhmään kuin sillä on karjalajeja,
+ja kukin Ryhmä jälleen jakaantuu niin moneen alaryhmään kuin sen
+kalalajissa on vaihtelevaisuuksia.
+
+Lisäksi on vielä huomattava että Sarjoja ja Ryhmiä ei mikään johtaja
+eikä päällysmies muodosta, vaan jäsenet vapaasti valiten, eivätkä ne
+liioin ole mitään tarkoin rajoitettuja yhteyksiä, vaan itsekullakin
+yksilöllä on valta mielensä mukaan vaihtaa Ryhmiä ja Sarjoja.
+
+Ennenkuin tätä yhteiskuntamuotoa voidaan toteuttaa käytännössä,
+täytyy vähintäin olla tiedossa noin 2,000 jäsentä liitossa. Tätä
+liittoa kutsutaan nimellä Falanksi, ja se on Fourierin järjestelmän
+varsinainen yhteiskunta. Pienempiin yksityiskohtiin asti kuvaa Fourier
+Falanksin toiminnan. Sen toimintapiiriin kuuluu noin kolmen neliömailin
+suuruinen maa-ala ja sen päärakennuksena on Palatsi. Tähän kuuluu
+kaksirivinen rakennus, noin 2,200 jalkaa pitkä ja kolmikerroksinen,
+ja Sarjain ja Ryhmäin tapaan on siinäkin niinikään keskus ja kaksi
+siipeä. Keskustassa harjoitetaan rauhallisia toimia, siellä on ruoka
+ja keskusteluhuoneet, kirjasto j.n.e. Toisessa siipirakennuksessa ovat
+ääntä pitävät työpajat ja toisessa hotelli kaikkine mukavuuksineen
+vieraita varten. Palatsia vastapäätä ovat varastohuoneet ja
+säilytysaitat y.m. ja välinen tori on paraadeja ja juhlallisuuksia
+varten. Palatsin sisällä kulkee komea käytävä josta portaat johtavat
+jokaiseen rakennuksen osaan. Palatsin asukkaat voivat pakkasta, pyryä
+tai muuta ulkoilman viheliäisyyttä tuntematta olla tämän käytävän
+kautta yhteydessä työpajojen, varastohuoneitten y.m. kanssa.
+
+Palatsin takana ovat puutarhat ja pellot, järjestetyt kauneuden
+vaatimusten ja maaperän luonnon mukaan.
+
+Mitään loiseläviä ei Falanksissa ole, ei palvelijoita, ei sotilaita,
+ei poliiseja, ei joutilaita. Naisten ei tarvitse alituisesti olla
+yksitoikkoisissa taloustoimissa, vaan toimivat eri aloilla jotka
+heille erityisesti sopivat. Työ tapahtuu osuustoiminnan perusteella
+ja Falanksien rikkaus ja hyvinvointi on sentakia tavaton. Otaksutaan
+että Falanksiin kuuluu 400 perhettä. Jos kukin perhe erikseen eläisi,
+vaatisi kukin itselleen eri kyökin ja keittoastiat, jokaisen 400
+perheen emännän aika kuluisi tarkoin talousaskareissa ja tulokset
+kuitenkin olisivat huonot. Falanksissa keittäminen tapahtuu yhdessä
+suuressa keittiössä, ja kymmenen taitavata kokkia voi valmistaa
+paremman ruuan kunkin perheen maun mukaan. Samoin on kaikissa muissa
+toimissa laita; mitä paraimmat koneet ja muut apuneuvot kun ovat
+käytettävänä, tulee koko tuotanto olemaan pelkkää keveätä ja hauskaa
+ajan vietettä.
+
+Lasten kasvatus on Falanksissa tärkeimmän huolenpidon keskuksena.
+Kaikki lapset saavat samallaisen kasvatuksen yhteisissä kouluissa
+ja kasvatuslaitoksissa. Ja kun kaikki ihmisen taipumukset ja halut
+katsotaan hyödyllisiksi, on opettajain päätehtävänä saada selville
+lapsissa nämä taipumukset, kehittää niitä ja johtaa ne oikealle tielle.
+Lasten luokittelu alkaa heti syntymisen jälkeen. Rintalapset ovat
+jaetut kolmeen luokkaan: rauhalliset eli hyvänluontoiset, levottomat
+eli äänekkäät ja hurjat eli hillitsemättömät. Kullekin näille luokille
+varataan eri huoneet. Lapsia hoitavat erityiset naiset joille on siihen
+taipumusta ja halua, mutta äidit saavat itse imettää lapsensa, jos
+haluavat.
+
+Ijän mukaan lapset ovat jaetut seitsemään eri kuntaan ja kunkin kunnan
+kasvatus on sovitettu niiden taipumusten mukaan joita lapset eri
+ikäkausinaan osottavat. Kolmen vuotiaana jo lapsille annetaan keveitä
+ja mielyttäviä tehtäviä ja siten lasten taipumus leikkeihin jo aikaisin
+yhdistetään hyötyyn ja herätetään heissä halua teollisuuteen. Ja sitä
+mukaa kuin lapset henkisesti ja ruumiillisesti kehittyvät laajennetaan
+heidän toimintapiiriänsä. Tässä suhteessa ovat huomattavat pikku lasten
+ryhmät, joihin kuuluu 10—12 vuotiaita lapsia ja jotka toimittavat
+kaikellaisia likaisia töitä, kuten lian ja lannan korjaamista ja
+siivousta j.n.e. Tämä toimi on heille annettu siksi että sen ikäisillä
+lapsilla, kuten Fourier selittää, on merkittävä taipumus kaikkea likaa
+ja saastaa käsittelemään.
+
+Falanksin jäsenistöstä on seitsemän kahdeksatta osaa maanviljelijöitä
+ja teollisuustyön tekijöitä; loput ovat kapitalisteja, tiedemiehiä
+ja taiteilijoita. Falanksi nimittäin ei itse asiassa ole puhtaasti
+kommunistinen, vaan sen omaisuus on osakeyhtiön, vaikka jokaisella
+yhtiön jäsenellä ei tarvitse olla osaketta eikä jokaisen osakkeen
+omistajan tarvitse jäsenenä olla. Falanksin tileissä on kullakin
+jäsenellä konttonsa ja hänen palkkansa määrää neuvoskunta itsekunkin
+kyvyn ja työn luonteen mukaan. Kunkin vuoden lopussa kirjat päätetään
+ja voitto jaetaan seuraavasti:
+
+Työlle viisi kahtatoista osaa. Kapitaalille neljä kahtatoista osaa.
+Nerolle ja kyvylle kolme kahtatoista osaa.
+
+Tällainen voiton jako ei kuitenkaan synnytä mitään ristiriitaa;
+kullakin jäsenellä voi olla yksi tai useampia osia Falanksissa, hän
+voi tehdä työtä yhdessä tai useammassa Ryhmässä, kehittää erikoista
+taitoa yhdessä tai useammassa teollisuushaarassa ja siten saada osansa
+kustakin voiton jakoluokasta. Kapitalisti voi joko tyytyä pelkkään
+osinkoon taikka lisäksi tehdä työtä ja köyhä taas ansaitsee enemmän
+tai vähemmän aina ahkeruuden ja taidon mukaan. Kullakin on tilaisuus
+elää loisteliaasti tai ylellisesti, sillä kumpikin on Falanksissa
+edustettuna.
+
+Tällainen on pääkohdissaan Fourierin rakentama ihanneyhteiskunta. Työn
+vapaaehtoinen valinta toiminnan vaihtelu tavan takaa, työtoverien
+valinta keskinäisen kiintymyksen mukaan, työn jako ja kilpailu eri
+Ryhmien ja Sarjojen välillä. — Siinä ne pylväät joille Fourier laski
+koko yhteiskunnallisen järjestyksen ja joista itsestään oli onni
+ja hyvinvointi seuraava. Niiden yhteydessä vielä oli teollisuus
+sellaisenaan saatava ulkopuolisesti niin loistokkaaksi ja komeaksi kuin
+mahdollista, ja keinotekoisina houkutuskeinoina hän vielä tärkeinä
+pitää kunnianimiä, ritarimerkkiä, virkapukuja j.n.e.
+
+Fourierin luottamus tähän loistavaan mielikuvitusrakennukseen oli
+järkähtämätön. Elämänsä loppuun asti hän odotti miljoonamiestä hänelle
+rahoja tuomaan joilla toteuttaa aikeet. Hän oli varma siitä että tämä
+järjestelmä oli asteettain maailman voittava ja hävittävä nykyisen
+anarkian. Kun vain kerran yksi Falanksi oli perustettu, seuraisi toisia
+nopeasti, kunnes koko maailma olisi niitä täynnä. Matemaattisella
+tarkkuudella laski Fourier Falankseja maailmassa lopulta olevan
+ummelleen kaksi miljoonaa. Koko maailma oli muuttuva veljesliitoksi,
+jossa sivistys ja kieli oli oleva yhteistä. Konstantinopeli oli tuleva
+maailman pääkaupungiksi sekä _omniarkin_, maailman toimeenpanevan
+päämiehen, asuinsijaksi. Maailman hallituksessa tulisi paitsi omniarkia
+olemaan kolme augustusta, 12 caesarinaa, 48 keisarinnaa, 144 kaliifia,
+576 sulttaania j.n.e.
+
+Vielä on Fourierin järjestelmästä mainittava osa joka on rohkeimpia
+hänen mielikuvituksensa luomista. Hän selittää että samoinkuin
+ihmisellä on kullakin taivaankappaleellakin lapsuuden, kehityksen,
+surkastumisen ja kuoleman aikakausi. Taivaan kappaleen keskimääräinen
+ikä on 80,000 vuotta. Sen ajan kuluessa ihmissuku kulkee läpi 32
+kehitysjakson. Nykyaikana on viides jakso, sivistyksen aikakausi,
+menossa. Kahdeksas jakso on oleva yleisen sopusoinnun ja onnen aika.
+Tämän jälkeen seuraa maapallolla aikakausi jolloin ilmanala kaikkialla
+muuttuu samallaiseksi; pedot häviävät ja uusia ihmisille hyödyllisiä
+eläimiä sikiytyy; valtamerien vedet saavat suloisen mehujuoman maun ja
+maailma on oleva täydellinen paratiisi.
+
+Koko tämän yksityiskohtaisen järjestelmänsä Fourier piti ehdottomasti
+oikeana ja ainoana mahdollisena elämänsä loppuun asti. Kymmeniä
+rahapohatoita hän puhutteli, selvitteli heille järjestelmäänsä, mutta
+uskostaan hän ei vähääkään järkähtänyt, vaikka toivottu miljoonamies
+aina vain pysyi piilossa. Hän oli vakuutettu siitä että oli keksinyt
+"yhteiskunnan painovoiman", samoinkuin Newton oli keksinyt fysikaalisen
+painovoiman, ja hän piti keksintöänsä aivan yhtä hyvin tieteellisenä
+tuloksena kuin Newtonin keksintökin oli. Mutta unelmiensa toteutumista
+hän ei nähnyt, sillä vasta hänen kuolemansa jälkeen hänen mietelmänsä
+etupäässä Amerikassa saivat alulle liikkeen joka kykeni kokeiluihin
+antautumaan.
+
+
+
+Fourierin järjestelmä käytännössä.
+
+
+Fourierin innokkain ja tarmokkain opetuslapsi, Albert Brisbane, oli
+amerikalainen. Hän syntyi Bostonissa, N.Y. 1809.
+
+Brisbane oli yläluokan lapsia, varakkaan maanomistajan ainoa poika. Hän
+sai hyvän kasvatuksen ja vartuttuaan läksi laajentamaan tietopiiriänsä
+Europaan, oleskellen varsinkin Berliinissä pitkät ajat, opiskellen ajan
+filosofisia virtauksia Hegelin koulukunnassa. Humaaniset harrastukset
+tempasivat hänetkin mukaansa, ja ennen pitkää hän oli Saint Simonin
+hartaita oppilaita ja apostoleita. Bazardin ja Enfantinin välisen
+kiistan aikana hän kuitenkin sen suunnan jätti, ja melkein samaan
+aikaan hän tutustui Fourierin mietelmiin. Ne saivat hänet aivan
+haltioihinsa. Hän löysi sen johtolangan jota oli kauan etsinyt.
+Inhimillinen työ, tähän asti jumalallisena rangaistuksena pidetty,
+olikin kunniata tuottavaa, ylevätä, jaloa! Sen kohottaminen oikeaan
+arvoonsa — siinä hänen elämänsä tehtävä jota turhaan oli pimeästä
+hapuillut!
+
+Hän muutti Pariisiin jossa perin pohjin alkoi tutkia uuden mestarinsa
+oppia, mieltyen ja kiintyen siihen yhä enemmän. Pari vuotta ennen
+Fourierin kuolemaa hän palasi kotimaahansa ja alkoi uutta evankeliumia
+levittämään aluksi vain toveripiirissä, sitten laajemmalle ja vihdoin
+julkaisi pääteoksensa "ihmisen yhteiskunnallinen tarkoitus" (Social
+Destiny of Man) jonka teoksen julkaisemisesta fourieristinen liike,
+täynnä intoa, hehkua, uskoa ja varmuutta, sai alkunsa Yhdysvalloissa.
+Teos oli selitys Fourierin mietelmistä sekä niiden sovittamisesta
+käytäntöön Amerikassa.
+
+Brisbane julkaisi teoksensa 1840, ja se sytytti fourieristisen
+profeettahengen toiseen, ehkä vaikuttavimmin toimineeseen apostoliin,
+nimellä Horace Greeley. Yhdessä nämä molemmat alkoivat julkaista
+viikkolehteä joka kuitenkin jo kahden kuukauden kuluttua kuoli.
+Mutta parin vuoden päästä, kun Greeley oli perustanut Tribune
+nimisen päivälehden ja saanut sen leviämään noin 20,000 painoksena,
+ryhdyttiin siinä säännöllisesti levittämään Fourierin oppeja. Joka
+numerossa oli siinä yksi palsta fourierismia, jota tällöin tunnettiin
+Association liikkeen nimellä. Noin vuoden ajan oli tämä Tribune
+fourierismin asianajajana. Sitten perustettiin liikkeelle kokonaan oma
+äänenkannattaja, "Phalanx" niminen, jota 1845 seurasi "Harbinger";
+se painettiin jo kuuluisalla Brook Farmilla, josta oli muodostettu
+fouristinen falanksi.
+
+Koko liike alkoi sangen otolliseen aikaan. Vuonna 1837 oli
+Amerikassakin teollisuuspula mitä vaikeinta laatua, työt olivat
+seisauksissa, kurjuus ylimmillään. Koko talous ja teollisuusjärjestelmä
+näytti olevan kukistumaisillaan, valtion ja yksityisten
+armeliaisuushommat eivät suuria aikaan saaneet ja ihmisissä,
+ajattelevissa ihmisissä vakaantui arvelu että yhteiskunnallisen
+talousjärjestelmän koneisto oli kihnaantunut rikki ja uutta tarvittiin.
+Tämä selittää puolestaan fourierismin, samoinkuin muidenkin
+radikaalisten uudistusliikkeiden menestyksen tänä aikana.
+
+Fourierismin apostolit olivat aikansa innokkaimmat. Mestarin luja
+luottamus ihanteeseen oli vallannut opetuslapsetkin; innostuttavat
+ponnistukset, jotka eivät saaneet "levätä eikä peräytyä", tulivat
+luonteen omaisiksi näille apostoleille, voiton varmuus oli
+ihmeen vankka ja sekä henkiset että aineelliset uhraukset olivat
+tavattomat. Kolmikertainen lunastuslause — "ihmisten yhteys oikeassa
+yhteiskunnassa, ihmisten ja Jumalan yhteys oikeassa uskonnossa,
+ihmisten ja luonnon yhteys luovassa taiteessa ja teollisuudessa" — se
+levisi kautta koko maan ja satoja tuhansia ihmisiä liittyi liikkeen
+innostuneisiin riveihin. Vuonna 1844 näiden "Associationistein"
+yhteinen edustajakokous pidettiin New Yorkissa. Siellä perustettiin
+varsinainen fourieristinen liitto, "National Confederation of
+Associations", jonka äänenkannattajaksi hyväksyttiin "Phalanx" lehti
+ja 18-henkinen toimeenpaneva komitea valittiin liiton asioita ajamaan.
+Samalla siellä julistettiin Fourierin Falanksit yhteiskunnallisten
+epäkohtien yleisrohdoksi ja niiden perustamista pidettiin liiton
+tärkeimpänä tehtävänä.
+
+Fourier itse ei luottanut Falanksiensa menestymiseen pienoiskoossa.
+Hänen matemaattisesti tarkkojen laskujensa mukaan piti jäseniä
+olla vähintäin 1,500 — 2,000 ja pääomaa noin miljoona frangia, ja
+kaikista pikkuyrityksistä hän vakavasti varotti opetuslapsiaan.
+Brisbane kuitenkin oli liiaksi malttamaton odotellakseen näin suuria
+edellytyksiä ja siksi hän tinki mestarin vaatimuksista suuren osan
+pois, päätellen että 400 henkeä riitti falanksin muodostamiseen.
+
+"Helpoimmin saattaa Associationin muodostaa siten", hän opetti, "että
+kehoitetaan 400 henkeä liittymään yhteen ja kukin ottaa 1,000 doll.
+arvosta osakkeita, mikä muodostaa 400,000 doll. pääoman. Osakkeen
+omistajat saavat neljänneksen Associationin koko tuotannosta eli
+voitosta; jos he haluavat, voivat he saada varman 8 prosentin koron.
+Tuhannen dollarin sijoitus tuottaa 80 doll. vuotuista korkoa. Tällä
+summalla Associationin tulee taata henkilölle asunto ja elanto; ja
+se voidaan tehdä. Rakennus voidaan pystyttää 150,000 dollarilla ja
+korko siitä 10 prosentin mukaan on 15,000 doll. Kun tämä summa jaetaan
+400 joka on henkilöitten luku, saadaan 37,50 doll. vuodessa kutakin
+henkilöä kohti vuokraa. Muutamiin asuntoihin kuuluisi useampia huoneita
+ja ne vuokrattaisiin 100 doll. tai vähemmällä, joten noin puolet
+huoneista voitaisiin vuokrata 20 doll. vuodessa. Henkilölle, joka
+haluaisi elää mitä halvimmilla menoilla, jäisi vuokran suorituksen
+jälkeen vielä 60 doll. Kun 'Association' itse viljelisi hedelmänsä,
+jyvänsä, kasviksensa, karjansa j.n.e. ja kun se säästäisi tavattomasti
+polttoaineissa, keittäjäin lukumäärässä ja kaikessa muussa, voisi
+se halvinta täysihoitoa antaa 60 doll. vuodessa. Siten 1,000 doll.
+sijoittanut henkilö saisi varmasti käytettäväkseen mukavan huoneen ja
+täysihoidon korollansa, ja säästäen eläisi ja saisi lisäksi kaiken
+mitä ikinä voi tuottaa työllään. Hän saisi elää sitäpaitsi komeassa
+kauniiden peltojen ja puutarhojen ympäröivässä rakennuksessa".
+
+Tämän kaavan mukaan innostuttiin Amerikassa fourierismia toteuttamaan.
+Aate oli kiihkoisalla voimalla levinnyt huonon ajan kiusaamiin kansan
+joukkoihin, jotka pääasiana pitivät päästä niin pian kuin mahdollista
+vapaan kilpailun taistelusta pois Falanksien yhteiselantoon. Tämä
+halu se voitti kaikki edellytysten ja mahdollisuuksien järjellisen
+punnitsemisen, ja Brisbanenkin tingityt vaatimukset tuntuivat jo liian
+suurilta. Missä vain fourieristinen aate oli muutamiakin kokoon tuonut,
+siellä jo Falanksi suunniteltiin ja toteuttamiseen käsiksi käytiin.
+Useimmissa tapauksissa pääoma oli sangen pieni, toisissa sitä ei ollut
+ollenkaan, mutta falankseja syntyi kaikkialle aivan kuin lehtiä puuhun
+lämpimän kevätsateen jälkeen.
+
+Luonnollisesti ei ensimmäisiäkään Fourierin tarkoituksia tällä neuvoin
+voitu toteuttaa. Falanksit sijoitettiin useimmissa tapauksissa
+perkaamattomiin erämaihin, maa kiinnitettiin mahdollisimman korkeasta
+ja jäsenet, joilla ei aavistustakaan ollut uutisviljelyksestä,
+antausivat maata perkaamaan, kyntämään ja kylvämään. Teollisuustuotanto
+jäi hurskaaksi toivomukseksi tulevaisuuden varalle. Innostusta riitti
+tavallisesti niin kauan kuin kiinnitysvelan ensimmäiset sitoumukset
+lankesivat maksettaviksi. Silloin Falanksi melkein säännöllisesti
+luovutti omaisuuden alkunsa kapitalististen velkojainsa huostaan.
+
+Kaikille ei kuitenkaan käynyt yhtä huonosti. Muutamain onnistui
+toteuttaa fouristiset aatteet laajemmallekin.
+
+Ensimmäisenä fourieristisista yritelmistä on mainittava
+Pohjois-Amerikan Falanksi, joka eli kokonaista 12 vuotta.
+
+Se perustettiin syyskuussa 1843 jolloin Falanksia varten valitulle
+alueelle New Jerseyn valtiossa muutti muutamia perheitä New Yorkista ja
+Albanysta. Seuraavana vuonna oli vakituisia asukkaita jo satakunta.
+
+Alkuperäistä pääomaa oli tällä Falanksilla 8,000 doll. Sillä lähdettiin
+alkuun. Aluksi rakennettiin väliaikainen asuinrakennus, mutta se
+sangen pian vaihdettiin kolmikerroksiseen Palatsiin, jossa oli
+keskus ja toinen siipi, kumpikin 150 jalan pituiset. Monenlaisiin
+teollisuushommiin käytiin käsiksi heti alusta pitäen, muun muassa
+pienen puron varteen rakennettiin mylly, mutta pääelinkeinona oli
+kuitenkin maaviljelys. Noin 70 eekkeriä käsittävä kaksinainen
+hedelmätarha oli erinomaisessa kunnossa ja yleensä muutkin pellot ja
+niityt kelpasivat esimerkiksi naapureille. Falanksin omaisuuden arvo
+kasvoikin sentakia vuosi vuodelta. Jo 1844 se arvioitiin 28,000 doll.
+ja 1852 oli se noin 80,000 doll.
+
+Falanksin asukkaiden enemmistö oli sivistynyttä hienostoa, mutta
+siitä huolimatta luistivat työt hyvin, varsinkin alkuaikoina. Ne
+järjestettiin melkein heti Ryhmä- ja Sarjajaon perusteelle ja palkka
+määrättiin työn mukaan. Raskaasta ja vastenmielisestä työstä maksettiin
+korkein palkka, hauskasta ja kevyestä alin. Tiilen tekijät esimerkiksi
+saivat 10 senttiä tunnilta, maatyön tekijät 8 senttiä, lääkäri sai vain
+6 ¼ senttiä tunnilta. Paitsi noita säännöllisiä palkkoja maksettiin
+vielä ylimääräisesti erikoiskyvyistä sekä Falanksin asian johtamisesta.
+Niinpä esim. rakennusryhmän päällikkö, jonka tuli määrätä, suunnitella
+ja johtaa työt omalla työalallaan, sai tavallisen palkkansa lisäksi 5
+senttiä tunnilta korvaukseksi johtokyvystään.
+
+Jäsenillä oli täysi oikeus itse valita työnsä ja määrätä oma
+työaikansa. Heidän työnsä merkittiin heidän tililleen ja kerran
+kuukaudessa oli yleinen maksupäivä. Kunkin vuoden lopussa jaettiin
+sitten varsinaiset voitto-osingot. Työn osuus nousi tällöin noin 13
+doll. ja kapitaalin noin 5% sijoitetusta kapitaalista.
+
+Suuria eivät yhteiskunnan jäsenten tulot näinmuodoin olleet,
+mutta elantokin oli jotenkin helppoa. Palatsissa maksoi kaikilla
+mukavuuksilla varustettu huone vain 12 doll. Vuodessa. Ruokaa sai
+tilauksen mukaan. Kahvi maksoi ½ senttiä kuppi, voi ½ senttiä, liha 2
+senttiä j.n.e. Kunkin jäsenen tuli maksaa tämän lisäksi 36 ½ senttiä
+viikossa ruokailuhuoneen käyttämisestä. Kukin jäsen piti mukanaan
+kirjan johon ruuan tarjoojat merkitsivät kunkin ruoka-annoksen, ja
+kuukausitilissä ne tasattiin.
+
+Elämä Falanksissa oli siellä kävijäin kertomusten mukaan erittäin
+hauskaa. Kun päivän työt olivat suoritetut, vietettiin iltaa lukemalla,
+soitolla ja tanssilla. Asukkaat olivat kaikki "maailmallista" väkeä,
+itsensä kiduttamista varten ei sitä oltu perustettu, ja kaikin neuvoin
+koetettiin elämä muodostaa niin onnelliseksi kuin mahdollista. Kaikesta
+huolimatta oli onni ja hauskuus kuitenkin vain pintapuolista laatua.
+Se tarvitsi voimassa pysyäkseen koko joukon ulkopuolista osanottoa ja
+kannatusta. Ensi vuosina sitä olikin paljon tarjolla, kun fourierismin
+ystäviä tavan takaa kävi Falanksissa vierailulla ja mukanaan toi sitä
+innostuttavaa tuulahdusta mitä liike ulkomaailmassa silloin vielä
+nautti. Mutta fourieristiset kokeilut muualla kukistuivat vähitellen,
+innostus ja usko liikkeen parantavaan voimaan laimentui yhä enemmän,
+ja kun Pohjois-Amerikan Falanksikaan ei kyennyt aineellisia etuja
+parantamaan erityisemmässä määrässä, alkoi jäsenistössä vähitellen itää
+kaipaus takaisin vapaan kilpailun taisteluun ja niihin aineellisiin
+mahdollisuuksiin mitä vapaa kilpailu kullekin yksilölle antoi,
+joskin vain harvoille onnistumiseen asti. Tämä kaipaus alkoi ensiksi
+synnyttää hallintoriitoja, sitten jo napinaa liian vähäisten ansioitten
+johdosta, ja joskaan ei yleisesti puhuttu Falanksin hajoittamisesta,
+kyti se ajatus kuitenkin jo enemmistön mielissä. Syyskuussa 1854
+paloi Falanksin mylly joka oli tullut maksamaan noin 12,000, doll.
+ja se tapaus vihdoin tuotti ilmoille nämä ajatukset. Vaikka uuden
+myllyn rakennusrahat auliisti tarjottiin Falanksin ulkopuolelta
+lainaksi, esitti joku kuitenkin että myllyä ei rakennettaisi, vaan
+hajoitettaisiin koko yhteys. Esitys tehtiin aivan äkkiä; sittenkään
+se ei herättänyt mitään hämmästystä, vaan ryhdyttiin esityksestä
+äänestämään. Ja ulkopuolisten suureksi ällistykseksi taukosi
+Pohjois-Amerikan Falanksi täten toiminnastaan. Sen omaisuus myytiin
+pakkohuutokaupalla ja osakkeen omistajat saivat 66 senttiä dollarista.
+
+Fourieristisista kokeiluista kuuluisin oli Brook Farm niminen noin
+200 eekkeriä sisältävä maatila Bostonin lähistöllä. Alkuperäisesti
+se ei ollut mikään fourieristinen Falanksi, vaan erään joukkokunnan
+koti, joka joukkokunta tunnettiin nimellä "Transcendental Club",
+se on "Yläilmalaisten Yhdistys". Tähän yhdistykseen kuului joukko
+innottelevia haaveilijoita jotka tavan takaa kokoontuivat toistensa
+koteihin pohtimaan "kaikkia mahdollisia ja mahdottomia probleemeja
+filosofian, politiikan ja uskonnon aloilta", kuten Hillquit
+sanoo. Haaveilujensa takia heitä pilkallisesti ruvettiin sanomaan
+"yläilmalaisiksi", ja he sen omaksuivat kunnianimenä, sillä he
+uskoivat, "oikeuden järjestykseen joka on ulkonaisten aistimien
+ulottuvaisuuspiirin yläpuolella". Yhdistys julkaisi "The Dial"
+nimistä aikakauslehteäkin, jossa terävästi kirjoiteltuja artikkeleita
+ilmestyi ihmisolemuksen ja elämän tarkoituksesta ja suhteesta maailman
+kaikkeuteen.
+
+Tämä piiri pysyi kauan aikaa omien mietelmäinsä ja ajatelmainsa
+kehyksissä pyrkimättäkään varsinaisesti fourieristisen liikkeen
+yhteyteen. Vuonna 1840 George Ripley, yhdistyksen varsinainen sielu,
+rupesi puuhaamaan erinäistä siirtolaa "yläilmalaisille". Keväällä
+1841 valittiin ylläoleva maatila sellaiseksi siirtolaksi ja sen
+nimeksi pantiin "Brook Farm, maanviljelys ja kasvatuslaitos", ja sen
+tarkoitusta selitettiin perustuslakien johdannossa seuraavaan tapaan:
+
+"Voimakkaammin edistää inhimillisen sivistyksen suuria
+tarkoituksia, muodostaa elämän ulkonaiset olosuhteet viisauden ja
+puhtauden perusteella, istuttaa oikeuden ja rakkauden periaatteet
+yhteiskuntajärjestöömme jumalallisen sallimuksen lakien kanssa
+sopusoinnussa, perustaa veljellisen yhteistoiminnan järjestelmä
+itsekkään kilpailujärjestelmän tilalle" j.n.e.
+
+Itse peruslaissa määrättiin että siirtolan omaisuus oli oleva
+osakeyhtiöllä jonka osakkeitten nimellisarvo oli 100 doll. Kullekin
+jäsenelle taattiin työtä kunkin kykyjen ja halun mukaan. Kaikesta
+työstä oli oleva yhtäläinen korvaus, kapitaalille myönnettiin 5 %
+korko, työpäivä korkeintaan 10-tuntinen, alle kymmenen ja yli 70
+ikävuoden oleville vapaa toimeentulo, samoinkuin kaikille sairaille
+ja työhön kykenemättömille. Kasvatus, lääkärinapu ja kirjasten ja
+kylpylaitosten käyttö taattiin jokaiselle vapaaksi.
+
+Siirtolan hallinto oli oleva neljän kolmihenkisen komitean
+käsissä, jotka edustivat yleistä hallintoa, maanviljelyshallintoa,
+kasvatushallintoa ja raha-asiain hallintoa.
+
+Koululaitos oli siirtolasta tärkein. Se oli neliosastoinen: pikkulasten
+koulu alle kuusivuotiaille, alkeiskoulu 6-vuotiaille, valmistava
+koulu korkeampia tutkimusaloja tavoitteleville ja 6-vuotinen kurssi
+yliopistoon aikoville.
+
+Brook Farm oli siis vakaasti taipuvainen fourierismiin, vaikka sen
+perustajat eivät pitäneetkään itseänsä fourieristeina. Ajan henkisten
+rientojen sieluna kaikkialla oli Brisbanen loihtima yhteiskunnallinen
+uudistusliike eivätkä "yläilmalaisetkaan" voineet sen vaikutuksista
+päästä. Siirtolan jäsenistö, vaikka olikin harvalukuinen taisteli
+monenlaisia vaikeuksia vastaan sangen urhoollisesti. He osasivat
+säilyttää pitkän aikaa ihanteellisen innostuksensa asiansa
+suuruuteen ja oikeuteen ja heillä oli ulkopuolella runsaasti ystäviä.
+Kristillinen uskonto oli korkeassa arvossa, mutta mitään ahdasta
+lahkolaisuutta ei ilmennyt heidän joukossaan. Itse Ripley oli
+pappismies, ja hänkin käsitti kristillisyyden käytännöllisesti,
+yhteisteollisuus oli keskinäistä auttamista kuorman kantamisessa.
+Fourieristinen liike oli kuitenkin siksi voimakas että kaikki
+yhteiskunnalliset parannusyritelmät kohdistuivat siihen liikkeeseen,
+eikä "yläilmallisten" onnistunut mainittavassa määrässä kartuttaa
+jäsenistönsä lukua. Kolmen vuoden kuluttua oli Brook Farmin
+asukasluku vielä sadan alapuolella. Tämä seikka se pääasiassa lienee
+vaikuttanut että "kaikki havainnot olivat osottaneet totuudeksi
+Fourierin käytännöllisen järjestelmän" ja että Brook Farmin johtajat
+1844 julistivat siirtolansa fourieristiseksi Falanksiksi. Fourierin
+järjestelmä otettiin käytäntöön, hallinto muodostettiin uudelleen
+ja Ryhmät ja Sarjat alkoivat työskennellä makujen ja keskinäisen
+myötätuntoisuuden perusteella.
+
+Tämä askel saattoi Brook Farmin koko fourieristisen liikkeen
+keskukseksi. Liikkeen äänenkannattaja "Harbinger" muutettiin siirtolaan
+ja sieltä käsin alettiin varsinainen lähetystyö ulkopuolelle.
+Ja siirtolan aineelliset asiat näyttivät varmoin askelin yhä
+paranevan; väkiluku lisääntyi, alinomaa tuli uusia jäsenhakemuksia,
+teollisuusyrityksiä laajennettiin ja ruvettiin rakentamaan suurta
+palatsia. Fourieristinen liike näytti Brook Farmissa jo todistavan
+maailmalle mestarin erehtymättömän laskutaidon sekä niiden epäilysten
+tehottomuuden jotka väittivät että korkeakirjallinen sivistys ei pysty
+ylläpitämään raakaa työtä vaativaa siirtolaa. Toivo asui ja eli Brook
+Farmilla.
+
+Mutta sittenkin se oli pintapuolista, hiekalle rakennettua.
+
+Myrskyssä se ei kestänyt.
+
+Komea rakenteilla oleva Palatsi syttyi eräänä kevätiltana 1846
+tuleen ja siinä paloi myös 7,000 dollarin arvon mukana Brook Farmin
+valheellisesti vakava perus. Myötäkäymisen päivinä oli into laimennut,
+kapitalismin vapaa kilpailu houkutteli alituisesti yksilöllisillä
+pettävillä mahdollisuuksillaan. Hiukan toista vuotta koettivat
+innokkaimmat vielä ponnistella, mutta turhaan. Vastoinkäymiset olivat
+vieneet uskon yhteisonnen mahdollisuuteen ja seuraavan vuoden syksynä
+riutunut Falanksi menetti kaiken merkityksensä Kirkollinen orpokoti
+on nyt paikalla opettamassa kaiken maallisen turhuutta pienokaisten
+maallista tietoa janooville sieluille.
+
+Fourieristisista kokeiluista on kolmannella sijalla vielä mainittava
+Cerescon siirtola eli Wisconsinin Falanksi. Se ansaitsee mainitsemista
+etupäässä sentakia että siellä käytännöllisyys otettiin pääasiaksi ja
+jätettiin filosofiset mietiskelyt sikseen.
+
+Wisconsinin Falanksi perustettiin 1844 Fond du Lac kauntissa. Parisen
+kymmentä Fourierin aatteisiin innostunutta miestä läksi sanotun vuoden
+keväällä Wisconsinin sydänmaille jossa he ostivat ison maapalasen
+käteisellä rahalla ja perustivat Ceresco nimisen siirtolan. He laativat
+itsellensä tarkat säännöt ja laillistivat Wisconsinin Falanksin
+nimisenä yhdyskuntana. Kun koko paikkakunnalla ei paljon muita ollut
+kuin fourieristeja, saivat he käytettäväkseen paikkakunnan valtiolliset
+ja kunnalliset oikeudet joita he myös ymmärsivät hyväksensä käyttää.
+Kolme vanhinta jäsentään he valitsivat rauhantuomareiksi, kolme
+jäsentään he lähettivät valtion senaattiin ja yksi heikäläisistä
+kerran pyrki valtion kuvernööriksikin silloisen "Free Soil" puolueen
+vaalilistalla, mutta joutui tappiolle.
+
+Työssään he olivat uutteria ja kohottivat siirtolansa omaisuutta siten
+melkoisesti. Sarja- ja Ryhmäjärjestelmää he eivät noudattaneet, mutta
+pysyivät muuten tuotannon tulosten jaossa niin lähellä kuin suinkin
+Fourierin ajatuksia. Keskimääräinen palkka oli 6 — 7 senttiä tunnilta
+ja asunto ja ruoka y.m. tarpeet maksoivat 60—70 senttiä viikolta.
+Jäseniä yhdyskuntaansa valitessaan he pitivät silmällä hakijan
+varallisuutta ja ruumiillista kykeneväisyyttä. Aineellinen menestys
+Falanksilla sentakia olikin koko hyvä, mutta henkinen ei kehumista
+kestä. Kirjastoa ei heillä ollut eikä mitään muutakaan henkisten
+tarpeitten tyydyttämistä varteen otettu.
+
+Keskinäiset riidat ja innostuksen puute Wisconsinin Falanksinkin
+lopulta sortivat. Yhdyskuntaan muodostui kaksi puoluetta; toinen,
+hiukan vanhempi, vaati yhteiselantoa, toinen taas yksityistä.
+Yhteiselannon kannattajat olivat kaiken aikaa voitolla, mutta
+yksityiselannon puoltajat eivät enemmistön tahtoon taipuneet.
+Lopulta sitten päätettiin palata takaisin maailmaan, ja jonkinlaista
+tyytyväisyyttä lie kokeilijoille tuottanut se seikka että kun
+yhdyskunnan omaisuus myytiin huomattiin että osakkeen omistajat saivat
+takaisin pääomansa ja vielä kahdeksan prosentin koronkin. Wisconsinin
+Falanksi yksin fourierististen kokeilujen joukossa osottaa aineellista
+voittoa.
+
+Muista fourieristisista kokeiluista ei ole suuria sanomisia.
+Pennsylvanian karuilla vuorimailla tapahtui useita kokeita, samoin
+New Yorkissa ja Ohiossa. Mainittava on myös Michiganin Alphadelphia
+Falanksi, joka toista vuotta kuolemata pakoili ja jonka onnistui
+jäsenlukunsa kohottaa aina 1,200 asti. Kaikkien pääpiirteet olivat
+samat: tavaton innostus perustettaessa jota kesti niin kauan kuin oli
+huomattu että ponnistukset olivat liian raskaita ja tulokset liian
+pieniä. Ihmisillä on erinomainen taipumus syyttää toisiaan yhteisistä
+vastoinkäymisistä, ja niin olivat vastoinkäymiset alituisten riitojen
+lähteinä. Fourieristisia Falankseja lasketaan kaikkiaan olleen puolisen
+sataa Amerikassa ja jokaisella niistä oli samallainen loppunsa.
+Suuret taloudelliset häviöt, jotka asian uurastajat saivat kärsiä,
+koituivat voitoiksi vapaan kilpailun yritteliäille keinottelijoille,
+jotka osasivat hedelmät niittää fourieristien vaivalloisista
+kylvöistä. He niistä yritelmistä hyötyivät, kommunistiset haaveilijat
+hävisivät. Ja aineellinen häviö oli pientä henkiseen verraten. Sillä
+tappioitten katkeruudet johtivat joko epätoivoon tai itsekkäiseen
+välinpitämättömyyteen. Myöhempinä aikoina tapaamme fourieristisen
+liikkeen, inhimillisen vapauden, tasa-arvon ja ihmisoikeuksien liikkeen
+eturivin miehiä itse sydämmettömässä nylkemis- ja riistämistoimissa,
+näemme heidän julkisuuden miehinä taistelevan vanhoillisuuden ja
+kapitalismin pääleireissä yhä nousevan köyhälistön vapautusliikettä
+vastaan, jonka hyväksi he nuoruutensa tanakimman tarmon ja intohimoisen
+innostuksensa ovat uhranneet. Ja me näemme itse jäntevyyden, itse
+tarmokkuuden, Fourierin suurimman opetuslapsen Brisbanen katselevan
+alati epäillen, joskin myötätuntoisena valtavata työväenliikettä,
+joka kuitenkin alati saavuttaa voittoja hänen saarnaamiensa
+tarkoitusperiensä toteuttamiseksi.
+
+Epätoivon ja pohjattoman itsekkyyden lähteinä me usein löytäisimme koko
+kasan pettyneitä ihanteita ja toiveita.
+
+Fourierin puolustukseksi on kuitenkin sanottava että hänen
+Falanksejansa ei milloinkaan ole koetettukaan toteuttaa sillä
+tavalla kuin hän itse tarkoitti. Käytäntö ei siis oikeastaan ole
+suoranaisesti todistanut hänen Falanksiensa mahdottomuutta. Mutta se
+mahdottomuus on kuitenkin todistettu, sillä käytäntö on todistanut
+sen että ihmisriistäminen ei ennen lopu kuin se riistämisen kautta
+saavutettavissa oleva yksilön hyöty on tehty mahdottomaksi.
+
+
+
+
+Robert Owen.
+
+
+Suurista haaveilijoista oli Robert Owen epäilemättä lähimpänä niin
+sanoaksemme käytännöllistä yhteiskunnallista totuutta. Häntä useat
+pitävät nykyaikaisen sosialismin varsinaisena isänä, ja varmaa onkin
+että tieteellisen sosialismin järjestäjät Marx ja Engels häneltä saivat
+paljon vaikutelmia.
+
+Robert Owen syntyi 1771 Newtownin kylässä Skotlannissa köyhistä
+vanhemmista. Hänen opillinen kasvatuksensa rajoittui sangen vähään,
+sillä jo 11 vuotiaana hänen oli lähteminen kauppapalvelukseen
+Lontooseen. Hänen luontaisia ominaisuuksiansa jo tällöin olivat
+tavaton järjestämiskyky, uupumaton uutteruus, erinomainen huomiokyky
+varsinkin ihmisluonteisiin nähden ja syvä myötätuntoisuus kaikkia
+kovaosaisia kohtaan. Nämä ominaisuudet täydensivät hänen puutteellisia
+alkeistietojaan ja loivat hänelle loistavia mahdollisuuksia
+liike-elämässä.
+
+Jo poikasena hän alkoi tekemään havaintoja elämästä ja yhteiskunnasta,
+ja jo nuorena hänellä oli niissä asioissa vakaumus, jolle hän
+uskollisena pysyi koko elämänsä ajan. "Ihmisestä tulee kurja, julma
+raakalainen, ihmissyöjä tai korkeasti sivistynyt ja hyvä olento
+riippuen niistä olosuhteista joiden alaiseksi hän syntyessään joutuu".
+Se oli hänen elämänkäsityksensä juuri. Rohkeasti hän teki väitöksensä.
+"Ihmisluonne on alkuperältään hyvä ja sitä voidaan harjoittaa,
+kasvattaa ja muodostaa syntymästä alkaen sillä tavoin että kaikkien
+lopulta on tultava sopusointuisiksi, hyviksi, viisaiksi, terveiksi
+ja onnellisiksi. — — — Ihmisluonteen muodostavat häntä ympäröivät
+olosuhteet, eikä hän siis ole sovelias enemmän ylistykselle kuin
+moitteellekaan, ja jokainen yleisluonne voidaan maailmalle lähettää
+joko hyvänä tai pahana käyttäen keinoja jotka suureksi osaksi ovat
+inhimillisten hallitusten käytettävissä".
+
+Jo tällöin siis Owen viittaa hallituksella olevan velvollisuuksia joita
+ei vielä oltu velvollisuuksiksi tunnustettu. Yhteiskunnan oma syy oli
+että sen jäsenissä oli huonoja luonteita, yhteiskunnan itsensä oli
+parannettava olosuhteet, jotka ihmisistä loivat huonoja luonteita.
+Mutta hän ei pysähtynyt vielä tähän. Owen käsitti että kaikki elämän
+ilmiöt olivat siksi riippuvaisia toisistaan että jos johonkin niistä
+koskee, täytyy kaikkia järkäyttää. Ja pysyen uskollisena omalle
+vakaumukselleen hän rohkeasti tuomitsi "kaikenlaisen uskonnon jota
+tähän asti on ihmiselle opetettu". Sen hän teki aikana jolloin hän
+itsekin uskoi olevansa sivistyneen maailman huomatuin henkilö ja
+"vaikutusvaltaisin brittiläisen kabinetin ja hallituksen enemmistössä".
+
+Ja se lie ollut totta. Suuri loordi ja herttuajoukko oli hänen
+kannattajaväkeänsä Englannissa ja ulkomaitten ruhtinaatkin hänelle
+armoansa tuhlailivat. Venäjän perintöruhtinas Nikolai kävi hänen
+luonansa pestailemassa häntä Venäjälle ja Preussin kuningas hänelle
+kirjoitti korkean omakätisen kirjeen jossa selitti antaneensa
+ministerilleen käskyn panna Owenin periaatteet käytäntöön Preussin
+kasvatuslaitoksessa. Se armo ja suosio oli kuitenkin väliaikaista
+laatua. Owenin uskonnon tuomio vei kirkkoruhtinailta kaiken halun
+ja innostuksen, ja kun huomattiin että Owen tavoitteli halvan
+työjuhtajoukon kohottamista korkeitten herrojen tasalle itse
+käytännöllisessä elämässä eikä vain teoriassa, tuli näitten korkeitten
+herrojenkin innostus nolatuksi kylmäkiskoisuudeksi.
+
+Jo 19 vuotiaana Owen pääsi erään Manchesterin kehruutehtaan johtajaksi,
+ja tehtaan isäntä teki hänen kanssaan kirjallisen sopimuksen,
+jonka mukaan Owenin kolmen vuoden kuluttua oli määrä päästä hänen
+liiketoverikseen. Tällöin hän jo alotti ihanteittensa käytännöllistä
+toteuttamista toivoen voivansa ne päättää, kun oli palkkakautensa
+kuluttua saava enemmän sanomista. Isännän ahneus hänen aikeensa
+kuitenkin katkasi. Tämä oli nimittäin saanut sivulta päin toisen
+tarjouksen ja halusi rikkoa Owenin kanssa tekemänsä sopimuksen vissistä
+korvaussummasta. Owen silloin poltti sopimuksensa eikä suostunut enää
+rupeamaan tehtaan palvelukseenkaan, vaikka hän itse olisi saanut
+palkkaetunsa määrätä.
+
+Vuonna 1800 Owen lopulta tapasi sopivan koekentän ihanteilleen.
+Muutamain liiketuttavainsa kanssa hän tällöin nimittäin osti New
+Lanarkin puuvillatehtaat joita hän itse ryhtyi johtamaan. Tehtaissa
+työskenteli tällöin noin 2,500 ihmistä jotka perheineen asuivat
+ympäröivässä tehdaskylässä. Koko paikkakunta oli luonteenomainen näyte
+sen ajan tehdasliikkeestä. Työväestöön kuului noin 500 lapsukaista,
+jotka oli sinne tuotettu Edinburgin "armeliaisuuslaitoksista". Suuri
+kasarmimainen lato oli heidän asuntonaan, ja lasten ikä oli kuudesta
+vuodesta ylöspäin sekä työaika kello kuudesta aamulla seitsemään
+illalla. Luonnollinen seuraus tästä oli että lapset kaikki olivat
+näivettyneitä kääpiöitä, ne nimittäin jotka jaksoivat jonkunkaan
+vuoden tätä kidutusta kestää aikaiseen hautaan sortumatta. Työ oli
+yleensä kovaa ja palkat pienet, ja siksi täyskasvuinen työväestö
+oli yhteiskunnan hylkyjoukkoa. Koko kylä oli sentakia siivotonta
+ja asukkaat raakoja. Juoppous, murhat, varkaudet ja haureus olivat
+elämän pääpiirteitä, ja asukkaat kaikki velassa kapakoitsijoille ja
+kauppiaille.
+
+Owenilla oli alusta pitäen valta panna toimeen sellaisia uudistuksia
+joita hän sopivina piti, ja heti hän ryhtyi innokkaasti kyläkuntaa
+parantamaan joka puolelta. Hän perusti ensiksi kauppapuoteja joissa
+kyläläisille tarpeita myytiin kustannushintoihin ja siten pakotti
+entiset nylkykauppiaat, jotka ala-arvoista tavaraa olivat myyneet
+tavattomilla hinnoilla, sulkemaan kauppansa. Kapakat ajettiin kylän
+laiteille, kadut puhdistettiin ja kunnollisia asuntoja rakennettiin
+entisten hökkeleitten tilalle. Entisen omistajan tekemä sopimus
+Edinburgin "armeliaisuuslaitosten" kanssa, jonka mukaan sieltä
+orpolapsia kuljetettiin tehdastyöhön, rikottiin ja lasten työ
+lopetettiin kokonaan. Sen sijaan perustettiin lapsille koulu ja
+kaikkia opinhaluisia autettiin auliisti. Ankarat rangaistusmääräykset
+työväestöltä poistettiin, työaikaa lyhennettiin ja palkkaa korotettiin.
+
+Aivan luonnollista oli ettei näitä parannuksia saatu toimeen, ennenkuin
+oli hankaloita vastuksia voitettu. Niistä hankalimmat olivat työväestön
+oma epäluulo ja eri osastonjohtajain vastustus. Kidutettu työväestö ei
+voinut ymmärtää että nylkeväin isäntien joukossa ainoatakaan saattoi
+olla sellaista joka heidän etujansa vapaaehtoisesti tahtoisi valvoa.
+Siksi he Owenin kaikkia parannuksia epäillen katselivat odottaen
+jokaisen sellaisen takana piilevän uuden nylkemis- ja kidutuskeinon.
+Ja työnjohtajat taasen pitivät Owenia rikkiviisaana hohkona jonka
+järjettömyyksiltä he omaa työosastoansa koettivat suojella niin paljon
+kuin suinkin. Owenin oli senvuoksi turvautuminen vain omaan itseensä ja
+tavattomalla tarmollaan hän sai suuria aikaan.
+
+Kun vuonna 1806 Yhdysvallat kielsivät puuvillan raaka-aineen viennin,
+täytyi Englannin puuvillatehtaitten lopettaa toimintansa; tuhannet
+tällöin menettivät elinehtonsa ja saivat nälkää nähden käydä työn
+etsinnässä. New Lanarkissa ei kuitenkaan puutetta ollut, sillä neljä
+kuukautta kestävän työttömyyden aikana Owen maksoi työväestölle
+täyden palkan, vaikka tehtaat kaikki seisoivat. Tätä erinomaista
+jalomielisyyttä ei työväestö enää voinut epäillä, vaan se tästä lähin
+alkoi uskoa Owenin vilpittömiin tarkoituksiin.
+
+Mutta tuskin oli Owen tästä vastuksesta päässyt, kun jo toinen
+ilmestyi. Hän esitti liiketoverilleen suuren koulun ja lasten
+kasvatuslaitoksen perustamista kylään, ja silloin nämä nousivat
+kapinaan. He valittivat että liikevoitot muutenkin alkoivat kutistua
+ja jos uusiin kustannuksiin vielä ruvettaisiin, kuivuisivat ne ihan
+mitättömiin. He eivät olleet kapitaaliansa sijoittaneet armeliaisuuden
+harjoittamiseksi, vaan liikeyritykseen. Owen kahdesti vaihtoi
+liiketovereita, mutta ei saanut sen parempia. Kapina isännistössä
+päinvastoin yltyi ja kysymys syntyi hänen erottamisestaan liikkeen
+johtajan virasta.
+
+Silloin turvautui Owen kynänsä voimaan. Hän laati seikkaperäisen
+selityksen New Lanarkin tehtaista ja omista aikomuksistaan sekä mitä
+vastuksia hänellä oli voitettavana. Tätä selvitystä hän levitti
+liikemaailmassa ja sai ennen pitkää puolellensa seitsemän miestä, jotka
+suostuivat sijoittamaan yritykseen rahoja ehdolla että viisi prosenttia
+maksetaan korkoa kapitaalille ja loput käytetään paikkakunnan
+olosuhteitten parantamiseksi. Siten saaduilla rahoilla hän osti
+uppiniskaisten liiketoveriensa osuudet ja alkoi toteuttaa täydellä
+voimalla suuria aikeitansa.
+
+Ja tulokset olivat loistavia. Entinen siivoton New Lanark, jossa
+rikokset ja epäsiveellisyys oli kukoistanut, oli muutaman vuosikymmenen
+kuluessa muuttunut tehdaskaupungin malliksi; siisteys, kauneus ja onni
+siellä asusti. Ja Owen itse oli mainehikas suurmies, kuninkaitten ja
+ruhtinaiden ystävä; ja näiden ystävien muotiasiana oli käydä katsomassa
+hänen kättensä töitä, ylistellä häntä ja tehdä hänelle loistavia
+tarjouksia. Suurmiehen olisi vain tarvinnut jäädä laakereilleen
+lepäämään ja porvarillinen yhteiskunta olisi hänen nimensä piirtänyt
+kultakirjaimilla historiansa lehdillä!
+
+Mutta hän ei levännyt, ja siksi nouseva polvi sai historiastaan lukea
+että Robert Owen oli — kerettiläinen, uskonnollinen vääräoppinen,
+melkeinpä polttorovion ansainnut!
+
+New Lanarkin erinomainen menestys oli Owenille vain yllykettä.
+Hän oli mielestänsä vasta käytännöllisesti todistanut että
+ihminen on häntä ympäröiväin olosuhteitten tulos, ja hän ryhtyi
+johdonmukaisesti käsityskantaansa kehittämään. Ihmisystävästä,
+armeliaasta kapitalistista, joka maailmalle hyvin kelpasi, tuli
+täysiverinen kommunisti joka ei kelvannut paljon kenellekkään,
+koska hän johdonmukaisesti väitti että jos kerran halutaan ihmisten
+siveellisyys ja onnellisuuskantaa yhtäläiseksi, edellyttää se että
+kaikki aineelliset elämän ehdotkin tulee kaikilla ihmisillä olla
+samanlaiset. Tällöin ei New Lanark enää riittänyt hänen toiminnalleen,
+vaan hän ryhtyi aatteitansa ajamaan maailmassa kaikilla keinoin jotka
+käytettävissä olivat. Työpäivän lyhentäminen, tehdaslainsäädäntö,
+lasten ja naisten työn rajoittaminen, koululaitoksen parantaminen —
+n.s. lasten tarhat ovat hänen alotteestaan syntyneet — asunto-olojen
+korjaaminen, yleisten kylpylaitosten perustaminen, osuuskuntaliikkeen
+harrastaminen — kaikki sai hänen tarmokasta apuaan, sekä aineellista
+että siveellistä kannatusta.
+
+Tähän aikaan "tehdas ja työköyhälistön avustamiseksi" perustettu
+yhdistys oli asettanut komitean tutkimaan köyhälistön tilaa ja se
+komitea tiedusti Owenin mielipidettä, kysyen mihin toimenpiteisiin
+olisi ryhdyttävä yhä lisääntyvän köyhyyden lieventämiseksi.
+Esityksessään Owen selitti että vapaan kilpailun järjestelmän
+tuottaman työn tulosten lisäys ehdottomasti huononsi työväestön
+tilaa, koska yhä paraneva koneisto riisti yhä useammilta tuhansilta
+työn mahdollisuuden ja alensi työväen elinkantaa. Kun kerran näin
+oli asianlaita, on mahdotonta ajatellakaan mitään väliaikaista ja
+vähäpätöistä parannuskeinoa, oli käytävä syvemmälle. Senvuoksi Owen
+esitti teollisuusyhteyksien perustamista keskinäisen yhteistoiminnan
+perusteelle. Tällaisiin yhteyksiin kuuluisi 500—1,500 henkilöä, ja
+he yhteisesti tuottaisivat kaikki elintarpeet. Kun teollisuutta näin
+suuressa asteikossa harjoitettaisiin, kävisi tuotanto halvaksi ja
+jokainen saisi siitä osansa.
+
+Tämä esitys ei tietysti komitealle kelvannut, se oli liian
+radikaalinen, mutta Owen ryhtyi nyt julkisesti kommunistisia
+mielipiteitään ajamaan. Vuonna 1820 hän julkaisi teoksen, jossa
+esitti tuloksensa New Lanarkissa sekä samalla keinonsa yhteiskunnan
+parantamiseksi. Keino oli samanlainen kuin hän jo oli antanut
+yllämainitulle komitealle. Maailma oli "jaettava 300—2,000 sielua
+sisältäviin kyläkuntiin, 800—1,200 oli sopivin luku; kullekin
+henkilölle oli luovutettava maa-alue puolesta eekkeristä kolme kertaa
+suurempaan, riippuen siitä oliko kysymyksessä oleva yhdyskunta enemmän
+tai vähemmän taipuvainen maanviljelykseen; näiden 200 tai 300 perheen
+asuntohuoneet oli rakennettava yhteen suunnikkaan muotoon yhteisine
+keittiöineen, ruokailuosastoineen, kouluineen ja juhlapaikat keskellä;
+yksilöllisyyttä ei näissä kyläkunnissa olisi suvaittava; itsekunkin
+olisi työskenneltävä kaikkien hyödyksi; kaikkien jäsenten olisi syötävä
+samassa pöydässä ja yhdyskunnan määräämiä ruoka-aineita".
+
+Täydellä todella ryhtyi Owen kommunistiseen uudistustyöhönsä.
+Apua hän odotti ylhäältäpäin, esittäen aluksi mietelmänsä Venäjän
+silloiselle tsaarille ja Aachenissa vuonna 1818 pidetylle hallitsijain
+kokoukselle. Ne vetoamiset olivat kuitenkin turhia. Kokeiluansa varten
+hän ensiksi vaati 750,000 puntaa, mutta alensi sitten vaatimuksensa
+50,000 puntaan. Se summa hänelle lopulla Englannissa taattiinkin, ja
+muuan hänen innostuneista oppilaistaan tarjosi hänelle maa-alankin
+yhdyskuntaa varten. Sitä yritystä ei kuitenkaan koskaan perille
+ajettu, sillä Owenin katse kääntyi samaan aikaan Amerikaan, jossa,
+George Rappin perustama Harmonyn uskonnollinen yhdyskunta oli samaan
+aikaan myytävänä. Owen jätti silloin kaikki aikeensa Englannissa ja
+Irlannissa, jossa hänellä myös oli kommunistisen siirtolan hankkeita,
+ja läksi Amerikaan.
+
+Amerikassa Robert Owenin yhteiskuntakokeilut sitten suoritettiin
+useissa eri yrityksissä. Niistä puhumme myöhemmin. Sanottakoon nyt
+vain että Owen neljä eri kertaa kävi Amerikassa aatteitaan ajamassa,
+ja vaikka hänen käytännölliset yrityksensä myttyyn menivät, ei hän
+menettänyt toimintakykyänsä. Amerikan tappioiden jälkeen tapaamme
+hänet uudelleen täydessä toimessa Englannissa, missä hän 1832 oli
+perustamassa uutta yritystä, pankkia nimeltä "Equitable Banks of Labor
+Exchange". Tämän yrityksen aatteesta sanoo Owen: "Sen keskimääräisen
+ihmistyön määrä, jonka jokin tarve-esine sisältää, määrää sellaisen
+tarve-esineen arvon; jos siis tuottaja arvostaa ja vaihtaa kaikki
+tarve-esineet sen kannan mukaan, ei kapitalistilla ole mitään
+tilaa teollisuudessa eikä kaupassa, ja työntekijälle jääpi työnsä
+koko tuote". Yllämainittu pankki perustettiin tämän periaatteen
+nojalla Lontooseen, ja tarkoituksena oli että kukin hyödyllisten
+tarve-esineiden tuottaja toisi tuotteensa pankin yhteydessä olevaan
+myymälään ja saisi siitä pankin puolesta setelin jonka tuli edustaa
+niin monta työtuntia kuin esineen valmistamiseen oli tarvittu. Näillä
+seteleillä tuottaja saattoi ostaa toisia myymälässä olevia tavaroita,
+jotka samoin olivat arvostetut niiden valmistukseen kuluneiden
+työtuntien mukaan.
+
+Pankin menestys ei ollut pitkäaikainen. Se ei kyennyt ollenkaan
+pitämään tasapainossa tuotantoa ja menekkiä; kaikkia tarve-esineitä
+otettiin vastaan, olipa niillä sitten kysyntää ja menekkiä tai ei.
+Tuloksena luonnollisesti oli että kaikki tavarat, joiden menekki oli
+runsas, katosivat myymälästä ja sijalle tuli sellaisia joiden kysyntä
+ja menekki oli aivan rajoitettu tai pian täytetty.
+
+Myöhemmin otti Owen virkeästi osaa kaikkiin työväestön tilan
+parantamista tarkoittaviin liikkeisiin. "Kaikkien luokkien ja
+kansojen yhdistys" perustettiin hänen myötävaikutuksellaan, ja
+senkin valtiollinen vaikutus oli koko vahva. Laaja chartistinen
+liike oli hänen herättämänsä ja ammattiunioiden toiminnassa hän oli
+mukana, toimien esimiehenä unioitten ensimmäisessä kansallisessa
+edustajakokouksessakin.
+
+Robert Owen kuoli 1858. Neljä poikaa häneltä jäi jotka kaikki muuttivat
+Amerikaan. Isänsä aatteiden kannattajana on näistä mainittava Robert
+Dale Owen, jolla Amerikan yhteiskunnallisessa elämässä on huomattava
+sijansa.
+
+Harvan ihmisen elämä on ollut niin vaikutelmista ja tapauksista
+vaihteleva kuin Robert Owenin. Toinen puoli hänen elämästään sisälsi
+pelkkiä pettymyksiä, toinen puoli täynnä voittoja ja laakereita.
+Sittenkin on pettymyksellinen puoli maailmalle paljon tärkeämpi,
+niinkuin yleensä. Sillä tappiot opettavat ihmisiä paljon enemmän
+kuin voitot. Owenin tappiot ovat sosialistisen liikkeen ohjanneet
+pois kommunististen pikku yritelmäin salakarisesta saaristosta
+yleismaailmallisille selville vesille.
+
+
+
+Owenin kokeilut Amerikassa.
+
+
+Robert Owen saapui Amerikaan perustamaan suurta yhdyskuntaa ja kuuden
+viikon kuluessa yritelmän alkamisesta oli hän koonnut ympärilleen 800
+henkeen nousevan ihmisjoukon, joka syksyllä 1825 oli noussut jo 900.
+Hänen menestyksensä ei kovin suurta ihmettelyä ansaitse. Saman vuoden
+alkupuolella tiedettiin hänen ostaneen 30,000 eekkeriä maata josta noin
+3,000 oli täysin perattua; siellä oli komeat hedelmätarhat, 18 eekkeriä
+rypäletarhoja, säännöllinen kaupunki, jossa oli 160 taloa, komeat
+yleiset rakennukset. Ja vielä tiedettiin että ostaja ei aikonut käyttää
+tätä hyvyyttä omaksi hyödykseen, vaan luovutti sen yhdyskunnalle ja
+yhteistyössä toimisi kaikkien jäsentensä keskinäiseksi hyvinvoinniksi.
+
+Uusi yhdyskunta oli Wabash joen varrella Indianan valtiossa. Owen
+osti sen 150,000 dollarin hinnasta. Koko hankkeella oli erinomaiset
+edellytykset; paikka oli valmis, perkaajan vaivat eivät olleet
+rasittamassa ja kaikki oli velkataakasta vapaa. Owenin apuna oli vielä
+koko joukko tiedemiehiä ja oppineita, ja kuten ylempänä mainittiin
+kasaantui hänen kutsumuksensa johdosta lähes tuhatkunta ihmistä kokoon
+valmiina alottamaan uuden ihanneyhteiskunnan luomista sen salaisuuden
+keksijän kanssa. Epäilemättä oli joukossa runsaasti niitäkin jotka
+todellisesta innostuksesta itse aatteeseen mukaan tulivat, joilla
+todella oli tarkoitus vilpittömästi toteuttaa mestarin aatteita. Mutta
+suuri joukko oli mukana onnenonkijoitakin, jotka eivät vähintäkään
+välittäneet Owenin ihanteista eivätkä niitä edes tunteneet, olivat
+vain tulleet mukaan hyötyäkseen rikkaan "merkillisyyden omituisesta
+päähänpistosta". Siinä oli väkeä kaikenlaatuista seikkailevasta
+tyhjäntoimittajasta oppineeseen professoriin asti, ja kun mitään
+seulomista ei tapahtunut, kun kenenkään vaikuttimia ei kyselty eikä
+tiedusteltu, saattoi jo ennakolta arvata että koko yritys oli päättyvä
+surkeaan sekasotkuun ja ristiriitaisuuteen.
+
+Siitä huolimatta käytiin yhdyskuntaa järjestämään. Owenin mielestä
+ei täydellistä kommunistista ohjelmaa heti voitu käytäntöön ottaa,
+koska "järjettömässä yhteiskuntajärjestelmässä kasvanut ihminen ei
+voi muuttaa järjelliseen järjestelmään ensin siihen valmistumatta".
+Yhdyskunnan ensimmäisessä peruslaissa — niitä laadittiin kaikkiaan
+seitsemän kahden vuoden aikana — säädettiin senvuoksi että jäsenten
+ensiksi oli "valmistavan komitean" johdannon alaisina työskenneltävä
+kolme koevuotta, ennenkuin pääsivät täysiarvoisiksi yhdyskunnan
+jäseniksi.
+
+Jo seuraavana vuonna tammikuussa New Harmony — se oli yhdyskunnan uusi
+nimi — näyttää huomanneen että kolme vuotta oli liian pitkä koeajaksi,
+sillä silloin muodostettiin siirtola kokonaan kommunistiseksi.
+Yleisellä kokouksella oli ylin valta ja kuusijäseninen johtokunta
+oli toimeenpanevana valtana. Sekään muoto ei onnistunut ja seuraava
+aste oli se että Owenille annettiin täydellinen diktaattorivalta.
+Erinomaisella järjestämiskyvyllään Owen saikin järjestyksen
+palautetuksi ja yhdyskunta varttui. Mutta jo huhtikuulla osa
+jäsenistöstä vaati siirtolan jakamista erinäisiin itsenäisiin
+yhdyskuntiin. Siihen Owen ei tahtonut suostua, vaan esitti jälleen
+uuden peruslain, jonka mukaan jäsenet jaettiin kolmeen luokkaan,
+ehdollisiin jäseniin, koejäseniin ja "tutkimusten alaisiin henkilöihin"
+ja uusien jäsenhakemusten hyväksyminen jätettiin 25-jäseniselle
+komitealle. Tällä ei kuitenkaan jakokysymystä ratkaistu, ja toukokuulla
+Owen vihdoin suostui jakamaan yhdyskunnan neljään eri osastoon, joilla
+kullakin oli oleva oma hallituksensa. Kolmen kuukauden kuluttua kaikki
+virkailijat poistettiin ja niiden tilalle asetettiin kolmihenkinen
+diktaattorivallalla varustettu komitea. Vihdoin syyskuussa seitsemäs
+peruslaki laadittiin ja sen kautta koko hallinto jätettiin Owenin
+käsiin ja hän sai joka vuosi nimittää neljä jäsentä apulaisikseen.
+
+New Harmony ei kuitenkaan ollut pelastettavissa. Hallinnolliset
+ja uskonnolliset riidat olivat pääasiallisina syinä lopulliseen
+hajaantumiseen. Uskonnollisia riitoja näyttävät synnyttäneen
+kuljeksivat saamamiehet, jotka kuitenkin saatiin siirtolasta
+kaikkoutumaan sangen mukavalla keinolla. Ilmoitettiin että
+saarnamiehille siirtolan ovet ovat aina auki, mutta saarnan päätyttyä
+on kullakin kuulijalla täysi oikeus tiedustella saarnamiehen
+mielipiteitä eri kysymyksissä. Siitä seurasi saarnamiehille sangen
+ikävä ristikuulustelu, jota välttääkseen he eivät kuukausiin käyneet
+siirtolassa.
+
+Riidat hallitusmuodosta näyttävät olleen paljon turmiollisemmat
+kuin uskonnolliset. Kaksi joukkokuntaa pääjoukosta erkanikin ja he
+perustivat siirtolan alueille kaksi itsenäistä yhdyskuntaa, jotka
+tunnetaan nimellä "Macluria" ja "Feiba Peven". Ja vähitellen tippui
+jäseniä pois yhä enemmän, kunnes heinäkuussa 1827 koko yritys tukehtui.
+Yksityisille jäsenille, jotka liittoutuivat pikku yhdyskunniksi, antoi
+Owen maantilkkuja New Harmonyn laiteilta. Maa näille vuokrattiin
+10,000 vuodeksi 50 sentin nimellistä vuokraa vastaan eekkeriltä
+ja ehdolla että maata ei saa käyttää muuten kuin kommunistisiin
+tarkoituksiin. Ne yritelmät tukehtuivat heti alkuunsa ja varsinaiselle
+yhdyskunnan asuinsijalle työntäytyi yksityisiä liikemiehiä, kapakat
+ja viinaporvarit avasivat turmiolliset laitoksensa, ja ennen pitkää
+vapaan kilpailun hillitsemätön vallattomuus metelöi paikoilla mistä
+ihmiskunnan onnen oli määrä alkukaavansa saada.
+
+Entä Owen?
+
+Vapauden päivänä 1826 hän vielä piti tovereilleen innostuttavan puheen
+joka oli täynnä toivoa. Hillquit siitä lainaa seuraavan palan:
+
+"Minä nyt julistan teille ja maailmalle että ihminen tähän hetkeen asti
+on ollut kaikissa maailman osissa hirvittävimmän pahekolminaisuuden
+orja mikä on voinut liittoutua henkisen ja ruumiillisen pahan
+juurruttamiseksi koko ihmissukuun. Minä tarkoitan yksityistä eli
+yksilöllistä omaisuutta, mielettömiä ja järjettömiä uskontojärjestelmiä
+sekä avioliittoa joka on perustettu yksilölliselle omaisuudelle ja
+muutamille näistä järjettömistä uskontojärjestelmistä."
+
+Mutta jo muutaman kuukauden kuluttua oli hänen äänensä muuttunut.
+Puhuessaan yhdyskunnan tarkoitusten epäonnistumisesta hän sanoo:
+
+"Vaadin raittiutta, sen sijaan sain olla alituisissa selkkauksissa
+juoppouden kanssa. Vaadin rehellisyyttä, sain epärehellisyyttä. Vaadin
+uutteruutta, laiskuutta tapasin. Vaadin puhtautta, löysin likaa. Vaadin
+huolellisuutta, tuhlausta tapasin. Toivoin tapaavani tiedonhalua,
+havaitsin mielentylsyyttä. Halusin että luonnetta muodostavat
+periaatteet ymmärrettäisiin, ne ymmärrettiin väärin. Halusin näiden
+hyvien ominaisuuksien yhdistyvän itsekussakin yhdyskunnan yksilössä,
+mutta niitä ei löytynyt enkä voinut löytää sellaisiakaan jotka olisivat
+olleet kyllin uhraavaisia ja kestäviä valmistaakseen ja kasvattaakseen
+lapsiansa näitä ominaisuuksia omistamaan."
+
+Toisista Owenin periaatteille perustetuista kommunistiyhteiskunnista on
+mainittava Yellow Springsin yhdyskunta Cincinnatin lähellä. Se aiheutui
+Owenin luennoista joita hän siellä piti. Yhdyskunnan perustajana oli
+Daniel Roe, sikäläisen Svendenborgin kirkkokunnan pappi. Kirkkokunnan
+jäsenet olivat yhteiskunnan hienostoa, rikasta väkeä, ja ostamallaan
+tilalla he kiitettävällä hartaudella kävivät käsiksi ruumiilliseen
+työhön. Puoli vuotta kesti hartautta, sitten papit näkivät että
+sielujen paimentaminen oli helpompaa, kauppiaat palasivat auran
+kurjesta mittapuunsa ääreen ja hienot naiset, jotka patoja ja
+keittoastioita olivat alentuneet liikuttelemaan, pestasivat jälleen
+palkollisia työhön. Koko yritys oli vain rikkaitten kevytmielistä
+huvittelua työn teolla joka jonkun verran maksoi, mutta tuotti
+toivottua huvitusta.
+
+Vuonna 1825 perusti Frances Wright Nashoban yhdyskunnan Tennesseen
+valtiossa Owen periaatteiden pohjalle. Erikoistarkoituksena oli
+kasvattaa neekerit valkeitten tasalle yhteiskunnalliseen ja
+taloudelliseen tasa-arvoisuuteen. Hän osti neekeriorjia, lainasi
+toisia ja ajoi suurella innolla asiata, kunnes hänen sairauden takia
+oli mentävä Euroopan puolelle. Yhdyskunta ei elänyt kauvan eikä sen
+tuloksista ole mitään mainittavaa.
+
+Kaikkiaan lienee Owenin vaikutuksesta kommunistisia yhdyskuntia
+perustettu kymmenkunta. Ne kaikki olivat lyhytikäisiä, ja New Harmony,
+jota mestari itse oli johtamassa, on ainoa yritelmä joka mainitsemista
+ansaitsee.
+
+
+
+
+Muita kommunistisia kokeiluja.
+
+
+Aatos yhteiselannosta ja sen autuaaksi tekevästä voimasta oli
+viime vuosisadan alkupuolella niin syöpynyt ihmisten mieliin että
+käytännölliset kokeilut kommunistisen yhteiskunnan toteuttamiseksi
+eivät rajoittuneet vain siihen mitä "suuret haaveilijat" aikaan
+saivat. Kapitalistinen tuotantojärjestelmä saavutti niin mahdottoman
+suuria voittoja että vain harvat porvarikunnan piirissä — jotka
+niistä voitoista vain etuja niittivät — jaksoivat hurmauksiltaan
+nähdä sen vielä suurempia siveellisiä ja aineellisia turmioita.
+Ja ne jotka sen huomasivat, ne eivät kyenneet syitä keksimään,
+pintapuoliset teoreettiset arvailut olivat heille tarpeeksi, sillä ne
+jo loivat mielikuvituksessa ihanneyhteiskunnan, jossa kapitalistisen
+tuotantojärjestelmän edut vain olivat vallitsevina — haitat poissa.
+Kommunistiset kokeilut osottavat sentakia säännöllisesti tavatonta
+innostusta alussa, joka vähitellen herpaantuu sitä mukaa kuin elämän
+todellisuus, kapitalistisen tuotantojärjestelmän järkähtämättömät lait
+osottavat että sen epäkohdat eivät ole poistettavissa muuten kuin koko
+järjestelmän muutoksella koko yhteiskunnassa.
+
+Toisista kommunistisista kokeiluista on etupäässä mainittava
+
+
+
+Icarialainen liike.
+
+
+Se oli monessa suhteessa sangen omituinen. Kansanvaltainen kommunismi
+oli siinä liikkeessä edustettuna puhtaana, vapaana kaikista
+sivupiirteistä ja syrjä-aatteista. Sitä ajettiin merkillisellä
+sitkeydellä huolimatta tavattomista vastoinkäymisistä.
+
+Icarialaisen liikkeen perustaja oli ranskalainen kirjailija Etienne
+Cabet. Hän syntyi 1788 ja alotti poliittisen uransa 37 vuotiaana,
+jolloin hän tuli erään salaisen poliittisen yhdistyksen "Carbonarin"
+johtajaksi. Vuonna 1830 hän oli erään kapinakomitean jäsen ja
+allekirjoitti tällöin päänsä uhalla erään kapinallisen julistuksen.
+Sitten hänet nimitettiin Korsikan yleiseksi syyttäjäksi, mutta
+menetti pian sen virkansa radikaalisen toimintansa takia. Ranskan
+parlamenttiin hän tuli jäseneksi 1831, ja siellä pitämistään kuningasta
+ja ministeristöä purevista puheistaan tuomittiin hänet joko kahdeksi
+vuodeksi vankilaan tai viideksi vuodeksi maanpakoon. Cabet läksi
+maanpakoon ensin Belgiaan, josta hänet karkoitettiin edelleen.
+Englannista hän turvapaikan tapasi ja alkoi siellä tutkiskella
+yhteiskunnan historiaa sekä julkaisi useampia historiallisia teoksia.
+
+Näissä tutkimuksissaan hän tuli siihen huomioon että historian joka
+lehdellä tavattavan epäjärjestyksen syynä on yhteiskunnallisen
+järjestelmän raihnaisuus. Parempi täytyi olla löydettävissä, mutta
+sellaisessa ei saa rikkaus ja köyhyys olla yhtaikaa tavattavissa.
+Kun tämä kerran on ehtona, täytyy uudessa järjestelmässä omaisuuden
+yhteisyys olla ensimmäisenä kulmakivenä. Kommunistinen yhteiskunta
+on siis maailman ainoa pelastus, ja maailman filosoofien teoksia
+tutkiessaan hän ymmärsi että ne kaikki, Kristus etupäässä, ovat
+päässeet samaan lopputulokseen.
+
+Tällaisilla eväillä varustettuna hän palasi viisivuotisen maanpakonsa
+jälkeen Ranskaan ja julkaisi siellä 1840 teoksen nimeltä "Matkustus
+Icariaan" ("Le Voyage en Icarie"), sujuvan kertomuksen muodossa
+esittäen siinä ajatelmansa.
+
+Tämä teos on icarialaisen liikkeen synnyttäjä ja se muutti tekijänsä
+koko elämän uran. Teoksen juoni on yksinkertainen: Nuori englantilainen
+loordi, nimeltä Carisdall, on sattumalta saanut tietoonsa että muusta
+maailmasta kokonaan erillään on jossakin yhteiskunta jonka nimi
+on Icaria. Hän päättää lähteä tänne eriskummalliseen maahan ja ne
+kokemukset ja huomiot, joita hän matkallansa teki maan ensimmäisestä
+hallinnosta, järjestyksestä ja tavoista, ovat teoksen sisällyksenä.
+Ensimmäisessä osassa kerrotaan ko-operativisen teollisuusjärjestelmän
+tuottamasta siunauksesta, kuinka se on hienostanut ja parantanut
+elintavat, kasvatuksen ja siveellisyyden, tuottanut ehdottoman
+vapauden sekä poliittisessa että sukupuolisuhteessa sekä luonut
+todellisen onnen. Toinen osa sisältää maan historian, josta selviää
+että vuonna 1782 muuan Icar niminen kansallissankari on toimeen pannut
+vallankumouksen ja kapitalistisesta yhteiskuntajärjestelmästä luonut
+kommunistisen järjestelmän. Kolmas osa käsittelee kommunististen
+aatteiden kehitystä aina Platosta alkaen.
+
+Tällaisten kehysten sisällä Cabet esittää tavan millä
+yhteiskuntajärjestelmä on muutettava. Suhteellinen tulovero,
+perintöoikeuden poistaminen, palkan määrääminen valtion huostaan,
+kansalliset työpajat, maanviljelyssiirtolat sekä perusteellinen ja
+kaikista ulkopuolisista vaikuttimista vapaa kasvatus — siinä on ne
+pääkohdat joihin on toiminta suunnattava. Teoksessa on jotenkin
+kaikki kommunistiset ajatussuunnat esitettyinä käytännölliseksi
+kokonaisuudeksi.
+
+Tuskin mikään teos maailmassa lienee saanut niin nopeasti valtavata
+liikettä aikaan kuin tämä "Matkustus lcariaan". Siitä otettiin painos
+toisensa jälkeen ja sitä levisi Ranskan työväestön piireihin satoja
+tuhansia kappaleita. Ranskan yhteiskunnallisen uudistuksen harrastajat,
+jotka tällöin olivat vailla varsinaista perusteellista ohjelmaa,
+liittyivät kaikki Cabetin ympärille, joka menestyksestään innostuneena
+alkoi julkaista kommunistista lehteä, "Le Populaire". Siinä sekä
+lukuisissa lentokirjasissa hän kehitteli aatteitaan, ja todellinen
+kommunistinen kuume kävi huumauksena yli koko Ranskan ja ulottui
+laajemmallekin.
+
+Selvää oli ettei hallitus voinut sulattaa liikettä, ja kaikin keinoin
+alettiin ahdistaa icarialaisia. Hallitus, kirkko, oikeusistuimet,
+poliisi, kapitalistinen sanomalehdistö ja suurporvarit olivat kaikki
+yksimielisiä siitä että tämä suuri hyökyaalto oli pirstottava hinnalla
+millä tahansa. Mutta vaikka keinoja ei suuresti valittukaan, näytti
+liike yhä vain paisuvan, ja vuonna 1847 icarialaisten riveihin
+laskettiin kuuluvan noin 400,000 henkeä. Niitä oli Ranska tulvillaan,
+uskollisia kannattajia oli Sveitsissä, Espanjassa, Saksassa ja
+Englannissakin ja yhä oireet osottivat liikkeen suurenemista.
+
+Cabet ei ollut voinut tällaista tulosta aavistaa eikä hänellä
+alkuperäisesti lie ollut ajatustakaan mietelmäinsä käytännöllisestä
+toteuttamisesta. Hän päinvastoin oli sitä mieltä että kommunistiseen
+yhteiskuntaan johtaa vain vaivalloinen ja pitkä kasvatuksen polku ja
+että osittaiset kokeilut vain vahingoittaisivat itse asiata. Mutta kun
+liike yhä paisui, ja kun ystävät vaatimalla vaativat häntä käytännössä
+osottamaan järjestelmänsä pätevyyden, suostui hän lopulta. Ja vuonna
+1847 hän julkaisi kirjoituksen jossa kehoitti kaikkia asian harrastajia
+avustamaan suuren kommunistisen yhteiskunnan luomista.
+
+Kehoituksen vaikutusta ei tarvinnut kauan odottaa. Jo pian senjälkeen
+Cabet saattoi sanoa että kokeiluun osanottajia oli tuleva ainakin
+miljoonaan nouseva joukko.
+
+Cabet matkusti Englantiin tiedustelemaan sopivata uuden yhteiskunnan
+paikkaa. Owenin kanssa kauan asiasta keskusteltuaan hän pääsi siihen
+vakaumukseen että Texasin valtio Yhdysvalloissa oli sopivin sellaista
+yhteiskuntaa varten. Läpeensä epäkäytännöllisenä miehenä hän Lontoossa
+joutui erään Peters Companyn verkkoihin, joka myi maita Texasissa.
+Tämä valtio oli vuotta ennen yhdistetty Yhdysvaltoihin ja sen maita
+koetettiin nyt kansoittaa kaikin tavoin. Peters Company oli yksi
+onkijoista. Sen kanssa Cabet teki kauppasopimuksen uskoen vahvasti
+näiden vakuutuksiin maan erinomaisista ominaisuuksista. Seuraavan
+vuoden alussa sitten "Le Populaire" ilmoitti innostuksesta palaville
+icarilaisille että monien tarkastelujen jälkeen oli havaittu Texasin
+koillisosa erinomaiseksi yhteiskunnan paikaksi ja että sieltä
+oli varattu toista miljoonaa eekkeriä maata Red Riverin varrelta
+icarialaisten kommunistiseksi onnelaksi.
+
+Sitten alettiin valmistella lähtöä tänne uuteen onnelaan. Tuhansia oli
+pyrkimässä ensimmäisinä matkalle. Niiden joukosta Cabet valitsi 69,
+kaikki hänen innostuneimpia oppilaitaan ja nuoria miehiä.
+
+Suuret olivat toiveet. Lähtijät juhlallisesti allekirjoittivat pitkän
+plakaatin jossa sitoutuivat noudattamaan kommunismin periaatteita
+uutta siirtolaa perustaessaan ja lupasivat kaikkensa tehdä yhteishyvän
+edistämiseksi. Satoja tuhansia kommunisteja oli kokoontunut lähteviä
+saattamaan, lujia lupauksia tehtiin ja suunnaton innostus vallitsi.
+"Le Populaire" lehdessä Cabet, joka vielä jäi vanhalle manterelle,
+kirjoitti seuraavat lähtiäissanat: "Sellaisia miehiä katsellessani
+kuin tässä etujoukossa oli, en voi epäillä ihmissuvun uudelleen
+parantumista. Tuorstaina helmikuun 3 p. 1848 kello 9 aamulla
+suoritettiin muuan ihmissuvun historian suurimpia tekoja — etujoukko
+läksi Havresta valtamerelle matkustaakseen Icariaan. Nämä urhoolliset
+icarialaiset, seisoen laivan etukannella, virittivät yksiäänisesti
+jäähyväislaulun 'Partout pour Icarie', johon katselijat vastasivat
+tuhansin huudoin: 'Näkemiin!' Olkoot tuulet ja aallot apunanne,
+te ihmisyyden sotilaat! Ja me icarialaiset, jotka jälelle jäämme,
+valmistaukaamme aikaa menettämättä yhtymään ystäviimme ja veljiimme!"
+
+Se valmistautuminen sai kuitenkin koko tuntuvan kolauksen muutaman
+viikon kuluttua, sillä Ranska julistettiin tasavallaksi. Suuret
+toiveet kiinnitettiin tähän julistukseen, kuten aina valtiollisiin
+suurmuutoksiin. Uuden ajan toivottiin koittavan, toiminnan vapaus oli
+jälleen taattu ja samalla vähentynyt halu lähteä merten takaa onnen
+maita etsimään.
+
+Icarilaisessa liikkeessä tapaus vaikutti masentavan hajaannuksen.
+Suurin joukko vaati etujoukon takaisin kutsumista, koska nyt muka oli
+täysi mahdollisuus toteuttaa ihanteet omassa maassa. Itse Cabet, joka
+läksiäiskirjoituksessaan näytti olevan täynnä pyhää ja innostavaa
+uskon tulta asiansa menestymiseen nähden alkoi horjua, sillä hänetkin
+nimitettiin uuden tasavallan presidentiksi. Vakavammat liikkeen jäsenet
+kuitenkaan eivät tasavaltaankaan luottaneet, vaan koettivat ylläpitää
+horjuvaa uskoa alkuperäisiin kommunisti-ihanteisiin. Heihin myöskin
+lopulla liittyi Cabet, ja niin yhä edelleen jatkettiin valmistuksia
+toista Icarian matkaa varten.
+
+Etujoukko saapui New Orleansiin maaliskuun lopulla. Tieto Ranskan
+valtiomuodon muuttumisesta oli ehtinyt jo sinne ja matkalaisissakin
+syntyi epäilystä, tokko enää erämaahan lähteminen mitään hyödyttäisi.
+Se epäilys kuitenkin torjuttiin ja alettiin kulkea päämäärää kohti,
+vaikkakin heti alussa ensimmäinen pettymys matkailijoita kohtasi.
+Kertomusten mukaan heidän piti kaikessa rauhassa päästä laivatietä
+matkansa perille. Mutta todellisuudessa saatiinkin tietää että
+heidän oli kulkeminen 250 mailia synkkiä metsiä, soita ja rämeikköä.
+Tarvittiin todella joukon innokkaimpain koko tarmo, ennenkuin sille
+matkalle lähdettiin. Mutta kolmen härkäparin avulla he kuitenkin
+läksivät samoamaan toivoen perillä saavansa kärsimystensä palkaksi
+onnelan ja paratiisin. Matka oli äärettömän vaikea. Härkäparit voivat
+vain suorittaa runsaasti puolet matkasta, toisen puolen saivat
+uutisasukkaat kulkea rähmien ja rypien soissa. Tällä tavalla matka
+kesti lähes kaksi kuukautta, toukokuussa vasta he pääsivät omille
+alueilleen.
+
+Siellä heitä kohtasi uusi pettymys. Sen miljoonan eekkerin asemasta,
+joka oli muka ostettu, he tapasivat maan joka oli vallattavissa sillä
+että kukin mies sai haltuunsa 320 eekkeriä, jos rakensi asuinmajan
+alueelleen ennen heinäkuun 1 päivää. Se heille selvästi ilmoitettiin ja
+katsellessaan kauppasopimustaan saivat icarialaiset nähdä että heidän
+profeettansa ei ainakaan pystynyt kauppa-asioissa kilpailemaan Amerikan
+maa-agentien kanssa. Kontrahdissa oli nimittäin selvästi sanottu että
+Cabetille oli maayhtiö myynyt miljoonan eekkeriä maata siten että
+3,125 henkilöä tai perhettä kukin ottaa haltuunsa 320 eekkeriä ennen
+heinäkuun neljättä päivää! Kun nyt uutisasukkaita etujoukossa vain oli
+69, eivät he heinäkuuhun mennessä saaneet pystyyn muuta kuin 32 majaa,
+jotka heille oikeutti kaikkiaan 10,240 eekkeriä maata eli sadasosa
+miljoonasta! Sitäpaitsi olivat nämä 320 eekkerin kappaleet siten jaetut
+että kunkin 640 eekkeriä sisältävän sektsioona-alueen toinen puoli jäi
+maayhtiön huostaan. Icarialaisten alue oli sentakia pirstautuneena
+moniin pikku palasiin, kaikkien vähimmän sopiva kommunistiselle
+uudissiirtolalle.
+
+Cabet näyttää kuitenkin valinneen etujoukkonsa sangen kestävistä
+aineksista, sillä kaikista näistä vastuksista huolimatta he yhtyivät
+toimiin konstikkaasti sijoitetun maansa viljelemiseksi. Mutta
+vastoinkäymiset eivät loppuneet. Kesän kuumin aika oli käsissä, ja
+keltakuume iski pelottavalla voimalla icarialaisten harvaan parveen.
+Elokuun lopulla, kun toinen joukkokunta, 19 sielua yhteensä odotetun
+1,500 asemasta, saapui tänne ihannemaahan, oli neljä etujoukosta
+kuollut, heidän ainoa lääkärinsä auttamattomasti mielipuolena ja
+koko muu joukko sairaana. Se ei ollut mikään lohduttava näky uusille
+tulokkaille, jotka olivat suunnattomia vastuksia jo tiellä kokeneet,
+ja niin päätettiin jättää koko onneton siirtola omille hoteilleen
+ja palata takaisin New Orleanssiin. Kolmessa eri joukossa ja kolmea
+eri tietä he läksivät murheelliselle paluumatkalleen, ja äärettömiä
+vaivoja kärsittyään, jätettyään monia tovereitaan tielle vainajina tai
+parantumattomasti sairaina, saapuivat tähteet New Orleansiin vuoden
+loppupäivinä. Siellä heidät Cabet, joka vasta oli kolmannen joukon
+kerralla Ranskasta saapunut, keräili ympärilleen, ja he viettivät
+surullisen talvensa täällä odotellen tilaisuutta uutta valloitusretkeä
+alkaakseen.
+
+Talven aikana hupeni joukko hupenemistaan. Cabet oli Ranskasta
+tuonut tullessaan 400 icarialaista. Pari sataa kyllästyi näistä
+vastoinkäymisiin ja palasi takaisin Ranskaan. Loppujen kanssa Cabet
+maaliskuulla läksi pohjoista kohti saatuaan tietää että Nauvoo niminen
+paikka Illinoisissa oli mormooneilta jäänyt melkein autioksi. Sinne
+saapui noin 250 henkinen joukkokunta maaliskuun lopulla, sittenkuin
+Mississipin ruttotaudit olivat matkalla lepytysuhrinsa vaatineet.
+
+Tältä paikkakunnalta olivat mormonit moninaisten vainojen jälkeen
+siirtyneet Utahiin, ja jälelle jääneet asiamiehet kauppailivat heidän
+omaisuuttaan. Icarialaiset heiltä vuokrasivat 800 eekkeriä maata
+ja ryhtyivät entistä hartaammalla innolla rakentamaan aatteittensa
+mukaista yhteiskuntaa. Ja vastahakoinen onnetar näytti heitä nyt
+rupeavan suosimaan. Aineelliset yritykset onnistuivat sangen hyvin, ja
+he saattoivat ruveta pitämään henkisistäkin asioista huolta. Niistä on
+etupäässä merkittävä lasten kasvatus kouluissa, joissa huolta pidettiin
+että heihin jo aikaisin istutettiin icarialainen maailmankatsomus.
+Teatteri heillä oli omista jäsenistään kokoonpantu, samoin useita
+musikaalisia yhteyksiä. Ja ankaraan aatteittensa levittämistyöhön he
+ryhtyivät myös. Heillä oli sanomalehti ja lentokirjasia levitettiin
+kaikilla Amerikan kirjavilla kielillä. Pariisissa oli yhä edelleen
+heidän pääkortteerinsa ja sieltä levitettiin aatetta ympäri maailmaa.
+Kun Cabet 1850-luvun alkupuolella kävi Europassa, oli hän taas
+pääsemässä ensimmäisten joukkoon "yhteiskunnallisten reformaattorien"
+seassa missä hänen asemansa vastoinkäymisten johdosta jo sangen
+pahasti oli ruvennut horjumaan. Icarian yhdyskunta tällä tavalla
+saavutti mainetta, niin että sen jäsenluku alkupuolella yllämainittua
+vuosikymmentä oli jo 500 ja omaisuutta arvioitiin olevan 75,000 doll.
+
+Mutta varallisuuden ja hyvinvoinnin mukana seurasi myös erimielisyys.
+Cabet näyttää olleen jonkinlaisena diktaattorina joukossaan aina
+vuoteen 1850 asti. Silloin hän vaati yhdyskunnan jäseniltä ehdotonta
+puhtautta elämän tavoissa ja oli sangen kärkäs moittimaan rikoksista
+näitä vaatimuksia vastaan. Sillä tavoin hän ehkä ensiksi sai muutamia
+vihollisia itselleen omien alamaistensa joukossa. Vuonna 1850 hän
+sitten esitti kansallensa perustuslain joka hyväksyttiin käytäntöön
+otettavaksi. Sen mukaan hallinto annettiin kuusihenkisen johtokunnan
+käsiin, jonka jäsenistä viisi edusti erikoista hallinnon haaraa, siten
+että ensimmäisellä oli hallussaan raha-asiain ja talouden hoito,
+toisella vaatetus ja asuntoasiat, kolmannella kasvatus, terveys
+ja huvitus, neljännellä teollisuus ja maanviljelys ja viidennellä
+kirjapainoasiat. Kuudes taas oli sekä johtokunnan että koko yhdyskunnan
+presidenttinä. Yleinen kansankokous oli ylin lainsäätäjävalta.
+Presidentiksi valittiin nyt joka vuosi Cabet. Hänen toimintansa kävi
+kuitenkin vuosi vuodelta yhä tiukemmaksi ja vaativaisemmaksi, samalla
+kuin hän yhä edelleen tahtoi ylläpitää ehdotonta sanontavaltaansa. Se
+synnytti monissa jäsenissä pahaa verta, ja hänen kannattajajoukkonsa
+alkoi vähetä. Sentakia hän yht’äkkiä keskellä tilivuotta 1855 vaati
+että perustuslaki oli korjattava siihen suuntaan että presidentti
+valittaisiin neljäksi vuodeksi ja että hänellä sinä aikana olisi oikeus
+erottaa ja nimittää kaikki alemmat virkamiehet. Vaatimusta vastaan
+nousi suuri joukko jäseniä, eikä se laiksi tullutkaan. Päinvastoin
+kansankokous, jossa äänioikeus oli jokaisella 20 vuotta täyttäneellä
+miespuolisella jäsenellä, oli selvästi enemmistöltään Cabetia
+vastaan. Muut hallintomiehet olivat taas hänen puolellaan. Vaivoin
+saatiin uhkaava yhteentörmäys kuitenkin tällä kerralla vältettyä,
+mutta 1856 elokuussa tapahtui sittenkin lopullinen rymäys. Tällöin
+valittiin johtokuntaan kolme Cabetin suoranaista vastustajaa, joita
+muut hallitusmiehet eivät suostuneet ottamaan vastaan. Siitä seurasi
+monenlaista sekasortoa, jossa vastalauseet ja julistukset näyttelivät
+pääosaa ja toisinaan johtivat väkivallan tekoihin. Paikkakunnan
+viranomaiset asettivat silloin väkisin valitut virkailijat toimiinsa.
+Cabet kannattajineen tästä sydämmistyi. He muuttivat eri rakennuksiin
+asumaan ja taukosivat työnteosta kokonaan. Vastapuolelta tämän johdosta
+annettiin julistus että jotka eivät ota osaa työntekoon, heidän ei
+liioin anneta syödäkään.
+
+Kun näin Cabet kannattajineen näki valtansa ehdottomasti menneen,
+lähettivät he anomuksen valtion lainlaatijakunnalle vaatien yhdyskunnan
+lupakirjan peruuttamista. Tämä toimenpide, jonka tarkoituksena
+nähtävästi oli kukistaa koko siirtola ehdolla millä tahansa, sai
+kansankokouksen vimmoihinsa, ja Cabet erotettiin "yksimielisesti"
+yhdyskunnasta. Mieli synkeänä ja toiveissaan pettyneenä hän
+marraskuussa 170 uskollisen kannattajansa kanssa läksi St. Louisiin,
+jossa mielenliikutuksesta aiheutunut sydämmen halvaus lopetti hänen
+päivänsä viikon kuluttua sinne saapumisestaan.
+
+Icarialaisliikkeen isä, alkaja ja perustaja ei siis varsin onnellista
+loppua nähnyt. Erotettuna itse perustamansa siirtolan jäsenyydestä,
+tavallaan maanpakolaiseksi tuomittuna hän kuoli kaukana isänmaastaan
+hyvää tarkoittavassa itsekkäisyydessään katkerana itse kasvattamiaan
+oppilaita kohtaan. Hän ei uskonut toisten voivan asioita hoitaa,
+halusi sentakia itse olla ainoana päämiehenä, jolle toiset johtovallan
+luovuttaisivat kansanvaltaisuudenkin vallitessa. Kun se toivo ei
+täyttynyt, halusi hän ennen hävittää oman työnsä hedelmät kuin niiden
+johtoa muihin käsiin uskoa. Siksi sanomme että hänen itsekkyytensä
+oli hyvää tarkoittavaa — yhtä vaarallinen laji itsekkyyttä
+kansanvaltaisessa yhdyskunnassa kuin se on selvä todistus omistajansa
+täydellisestä epäuskosta johdettavain usein vain vaistomaiseen
+ymmärrykseen.
+
+
+Cabetin kuoltua hänen uskollinen joukkokuntansa joutui aivan
+epätoivoon; muutamat niin syvälle tähän epätoivoon vaipuivat että
+tekivät itsemurhan. Kun heillä ei ollut mitään toiveita uuden
+yhdyskunnan aikaansaamisesta, sijoittuivat he toistaiseksi St. Louisiin
+jossa ryhtyivät työhön. Yhteytensä he kaikesta huolimatta pitivät
+voimassa. Yhdessä he julkaisivat lehteä nimeltä "Revue Icarienne",
+jossa he yhä aatettansa koettivat tutuksi tehdä. Sitäpaitsi heillä oli
+omat sivistysharrastuksensa, lukusalinsa, musikaaliset ja teatraaliset
+toimintansa.
+
+Toista vuotta he näin yhteytensä säilyttivät mitään omaa asuntopaikkaa
+omistamatta. Keväällä 1858 he ostivat 28 eekkeriä käsittävän maapalstan
+St. Louisin vierestä, maksaen siitä 25,000 doll. Paikka tunnettiin
+nimellä Cheltenham. Loistavat eivät uuden yhdyskunnan edellytykset
+olleet. Icarialaisilla ei luonnollisesti ollut suuriakaan varoja,
+ja he sentakia heti alussa velkaantuivat. Seutu oli sitäpaitsi
+epäterveellinen eikä juuri erityisesti puoleensa vetävä. Mutta
+kuitenkin he parastansa yrittivät. Ammattilaiset kävivät työssä
+kaupungissa ja toiset laittoivat maatilaa. Cabetin nimi oli heille
+apuna. Ranskassa oleva icarialaisten päätoimisto tunnusti heidän
+yhdyskuntansa ainoaksi oikeaksi ja sieltä he saivat tuntuvasti
+apuvaroja. Vuoden kuluttua oli yhdyskunta sentakia jo aineellisesti
+sangen hyvällä kannalla ja menestymistoiveet suuret.
+
+Mutta silloin erimielisyyden paholainen taas ilmestyi heidän
+keskellensä. Riita jälleen syntyi perustuslaista ja hallinnosta.
+Toiset, Cabetin alkuperäiset asetoverit ja joukon vanhemmat vaativat
+että hallintovalta oli keskitettävä yhden henkilön käsiin, samoin
+kuin Cabet oli vaatinut Nauvoossa; nuoremmat taas tahtoivat täysin
+kansanvaltaista hallitusta. Erimielisyys kehittyi niin kiihkeäksi että
+kun vanhemmat lopullisesti asiasta ratkaistaessa pääsivät voitolle
+läksi nuoremmista viitisenkymmentä jäsentä tiehensä koko yhdyskunnasta.
+Sitä ei nuori siirtola voinut kestää, vaan 1864, viisi vuotta tämän
+eron jälkeen se taukosi olemassaolostaan. Yhdyskunnan viimeisistä
+vuosista sen viimeinen ylistetty presidentti A. Sauva kirjoittaa näin:
+
+"Tämän eroamisen jälkeen yhdyskunta kaikin tavoin riutui. Monia
+ymmärtäväisempiä jäseniä, monia taitavimpia ammattimiehiä oli niiden
+joukossa jotka erosivat ja tappio oli korvaamaton. Pienentynyt
+yhteiskunta taisteli uhraavaisesti viisi vuotta eteenpäin, huolimatta
+vastuksellisten tapahtumain sarjasta, jotka näyttivät salaa
+liittoutuneen sitä kukistamaan; ja 1864 oli jälellä vain kahdeksan
+miestä, seitsemän naista ja muutamia lapsia. Kiinnityksen omistaja
+ahdisti maksua ja uhkasi anastaa omaisuuden. Rahastot olivat tyhjät
+eikä ollut mitään tehokkaita tulolähteitä. Agitatiooni oli loppunut,
+eikä mitään apua kuulunut Ranskasta. Viimeinen ponnistus tehtiin
+kuitenkin vielä. Kaksi jäsentä lähetettiin Nebraskaan etsimään
+soveliasta seutua valtion maista; mutta heidän palatessaan oli moraali
+niin heikennyt ja siirtoa varten tarvittavia rahoja puuttui niin
+täydellisesti että siitäkin aikomuksesta oli pakko luopua."
+
+
+Nauvoossa oleva yhdyskunta ei myöskään kestänyt sitä voimain
+vähennystä, kun Cabet kannattajineen sieltä lähti. Heidän asiansa
+rupesivat luistamaan huonosti, velat lisääntyivät ja sitä mukaa
+innostus väheni. Mutta heillä oli kuitenkin paluutie tavallaan
+turvattu. Huomattava nimittäin on että Cabetin siirtyessä kansansa
+kanssa Nauvoon, pidettiin sinne asettumista vain väliaikaisena
+toimenpiteenä, koska se seutu ei icarialaisten varsinaisille
+tarkoituksille sopinut pienuutensakaan takia. Pari vuotta siellä
+oltuaan he olivat sentakia ostaneet 3,000 eekkeriä käsittävän maa-alueen
+Iowassa, joka Nauvoon yhdyskunnan nimissä yhä vielä oli. Kun nyt asiat
+rupesivat luistamaan vinolleen Nauvoossa, päättivät jäsenet 1857
+siirtyä sieltä tänne Iowan alueelle ja jättää yhdyskuntansa velkojain
+käsiin. Tämän päätöksensä he toteuttivatkin kolmea vuotta myöhemmin,
+siirtyen asutuilta seuduilta tänne tiettömään korpeen, jossa kaikki oli
+aivan alkuperäisellä luonnon kannalla. Siellä he koettivat ponnistella
+uudisasukkaitten luontoperäisellä sitkeydellä kaikkia luonnon vastuksia
+vastaan, mutta ylen huonolla menestyksellä. Yhä useampi jäsenistä
+kyllästyi yksitoikkoiseen rasittavaan elämään, yhä useampi vetäytyi
+yhdyskunnasta pois; tämän ohella heidän kiinnityslainansa kantoi,
+kymmenen prosenttia korkoa, ja kun eivät he korkoa edes jaksaneet
+maksaa lisääntyi se velka tavattomasti. Vuonna 1863 heidän lukumääränsä
+kaikkiaan teki 35 ja velka oli noussut 15,000 doll. Nämäkin viimeiset
+olivat jo haluttomat kaikkeen työhön, ja koko yhteiskunta oli aivan
+kukistumaisillaan.
+
+Silloin puhkesi Amerikan sisällissota ja se yhdyskunnan pelasti. Heidän
+maansa arvo kohosi ja samoin heidän tuotteensa. Heillä oli kylliksi
+älyä tällöin myydä 2,000 eekkeriä maastaan, josta saivat 10,000 doll.
+Sillä tavoin he uudelleen pääsivät elämisen alkuun. Jäsenistö alkoi
+jälleen lisääntyä ja aineellinen hyvinvointi päästä alulle. Muutaman
+vuoden kuluttua he jo voivat ostaa takaisin osan myymästään maasta,
+hankkia kaikellaisia mukavuuksia.
+
+Yhdyskunta eleli koko rauhallista elämää nyt vuosikausia erikoisemmin
+kuitenkaan omia aatteitaan levittämättä. Mutta vähitellen kasvoi
+paikkakunnalle uusi polvi, tuli uusia jäseniä ulkomaailmalta ja he
+toivat tullessaan uusia aatteita. Siitä ajasta, jolloin ensimmäinen
+"matkustus Icariaan" tehtiin, oli maailma suuresti muuttunut.
+Valtiollistaloudellinen työväenliike oli syntynyt vankalle pohjalle
+ja alkanut saavuttamaan menestystä. Pariisin kommuni oli syntynyt ja
+kuollut, synnyttänyt uusia ajatuksia, uusia menettelymuotoja. Nämä
+kaikki tunkivat myös icarialaiskylän vanhollisuuteen, jossa liikkeen
+ensimmäiset esitaistelijat tunsivat vain icariansa, ihannevaltionsa,
+jota he haaveilivat, tuntematta mitään yhteiskuntaa johtavista laeista.
+He olivat taistelleet tuimat taistelunsa erämaan karua luontoa vastaan,
+heistä oli tullut piintyneitä vanhoillisia farmareita, jotka uuden ajan
+mielipiteissä näkivät vain veriin piirtyneen ihanteensa sortovoimia.
+Niitä he eivät ymmärtäneet, oman Icariansa he vain tajusivat.
+
+Tällä tavalla yhdyskuntaan syntyi kaksi jyrkkää puolueryhmää jotka
+1870-luvulla alkoivat tanakasti ottelemaan. Edistyspuolueen miehet
+vaativat kaikellaisia uudistuksia. Vaativat naisille äänioikeutta
+sekä uusia mielipiteitä vaativat tunnustettavaksi. Vanhat iskivät
+vastaan ja pysyivät enemmistössä nuorien ponnistuksista huolimatta.
+Vuonna 1877 nuoret vaativat muodollista eroa, ja kun vanhat eivät
+siihenkään suostuneet, he vetosivat oikeuteen vaatien yhdyskunnan
+lupakirjan peruuttamista, koska muka yhdyskunta oli kommunistisilla
+tarkoituksillaan rikkonut lupakirjan määräyksiä. Tässä puuhassaan he
+onnistuivatkin, sillä seuraavana vuonna piirikunnan oikeus tuomitsi
+lupakirjan peruutetuksi ja yhdyskunnan hajoitettavaksi.
+
+Nuoret pääsivät tällä tavalla erilleen. He saivat haltuunsa vanhan
+kotikylän, mutta siellä he eivät menestyneet, vaan muuttivat 1884
+Californiaan, jossa koko heidän hommansa kuoli 1887.
+
+Vanhat taasen sijoittuivat maa-alan itäiseen osaan jonne he rakensivat
+majansa ja rupesivat uudelleen maanviljelyshommiinsa. Vähitellen vanha
+polvi kuoli pois ja heidän mukanansa innostus ja vanhat ihanteet,
+ja vuonna 1895 tämä viimeinen icarialaisyhdyskunta nimellisestikin
+hajaantui.
+
+Vuonna 1877, juuri ennen viimeistä kahtia jakaantumista, oli
+yhdyskunnan presidenttinä A. Sauva, joka Cheltenhamin yhdyskunnan
+oli lopettanut. Hän kirjoittaa yhdyskunnan silloisista periaatteista
+seuraavaa:
+
+"Avioliitto on pakollinen täällä, se on, aviottomuutta pidetään
+luonnon vastaisena epäsäännöllisenä tilana, jota suvaitaan vain siinä
+tapauksessa että jäsenten luku on siksi rajoitettu että se estää
+aviottomia, miehiä ja naisia, löytämästä sopivia puolisoita."
+
+"Yhdyskunnan periaatteiden, lakien ja säädöksien rikkominen rangaistaan
+julkisilla nuhteilla, kansalaisoikeuksien riistämisellä tai rikkojan
+erottamisella rikosten laadun mukaan."
+
+"Jäsenten toimialan määräävät persoonalliset taipumukset ja työn
+vaatimukset."
+
+"Naiset ottavat osaa kansankokouksen neuvotteluihin; heillä on oikeus
+tehdä ehdotuksia sekä keskustella toisten tekemistä esityksistä; he
+voivat esittää mielipiteensä ja neuvonsa, mutta he eivät saa äänestää."
+
+"Me ylläpidämme kommunistisia periaatteita ja eritoten veljeyden
+periaateitta uskonnon tilalla; mutta kristillisyys alkuperäisessä
+puhtaudessaan on keskuudessamme suuressa arvossa; ja persoonallisten
+mielipiteiden suhteen uskonnollisissa asioissa Icariassa vallitsee mitä
+suurin suvaitsevaisuus, edellyttäen että sen ilmaukset eivät aiheuta
+hämminkiä ja epäjärjestystä yhdyskunnalle".
+
+Icarialainen liike, joka niin tavattomalla innostuksella alkoi, on
+osottanut siis verraten vähän tuloksia. Sillä on vastuksia ollut
+pitkin matkan vartta voitettavissa ehkä enemmän kuin millään muulla
+samanlaisella liikkeellä, mutta sen kannattajat ovat myös osottaneet
+sitkeyttä ja uhraavaisuutta verrattomassa määrässä. Koskaan eivät
+he kuitenkaan, enemmän kuin muutkaan puhtaasti kommunistiset
+yritelmät, ole pystyneet edes käytännössä aatteitaan toteuttamaan
+muuta kuin mitättömäksi osaksi. Sitäpaitsi ei koko liikettä ole
+kannattamassa sellaiset edellytykset kuin Owenin ja Fourierin alkamilla
+liikkeillä oli, sillä Cabet ei luonnonlahjojensa enemmän kuin
+tietojensakaan puolesta ollut kummankaan veroinen. Hän esitti koko
+yhteiskuntajärjestelmänsä vain unelmana, jota hän ei aikonut toteuttaa,
+vasta toisten innostuksesta hänenkin innostuksensa heräsi. Kun Owen ja
+Fourier olivat varsinaisia yhteiskunnan parantajia, jotka täydellisesti
+järkiperäisen harkinnan mukaan esittivät ehdotuksensa, oli Cabet vain
+pintapuolinen haaveilija, joka ehkä enemmän uneksi omia kunnianhimoisia
+suunnitelmiaan kuin varsinaista lähimmäistensä tilan parantamista.
+Siksi icarialaisella liikkeellä aina on ollut vain pintapuolinen
+leimansa joka ei ole koskaan kyennyt tunkeutumaan yhteiskunnallisen
+ja taloudellisen kysymyksen ytimeen, vaan on ollut vain perheellistä
+yhteiselämää omain jäsenten keskuudessa.
+
+       *       *       *       *       *
+
+Icarialaisen liikkeen mukana kommunistiset suuryritelmät sammuivat.
+Sen jälkeen ei ole kyetty enää sitä aatetta nostaa niin korkealle
+että se valosoihtuna olisi kyennyt mukanansa tempaamaan tuhansia
+ihmissieluja. Yhteiskunnan parantamisaatteet, etsittyään turhaan
+käytännöllistä ratkaisua ihmisen olemuksen parantamisen hämärältä
+ja ristiriitaiselta pohjalta, järjestyivät viime vuosisadalla
+suureksi sosiaalidemokraattiseksi liikkeeksi, jonka pohjana ei ole
+ihanteelliset valehaaveilut, vaan tieteellisten tosiasiain vankka
+pohja. Kun tämä pohja kerran oli löydetty, tappoi se ikipäiviksi
+yksityisiä mallionneloita tavoittelevan kommunismin, joka kilpailussa
+kapitalistisen suurtuotannon kanssa itsesäilymisestä oli joutunut
+surkeasti tappiolle.
+
+Meidän päivinämme on suurista kommunisti liikkeistä jälellä vain
+vähäpätöisiä jätteitä, pääasiallisesti uskonnollisia joukkokuntia,
+joita yhteinen lahkolaisusko vain heikosti enää koossa pitää. Toiset
+ovat jonkinlaisia varakkaiden ihmisten ylläpitämiä siirtoloita,
+joissa koetetaan saarnata kommunistisia aatteita. Sellaisista
+mainittakoon: Altruistien yhdyskunta St. Louisissa, Mo., jolla on
+pieni farmi hallussaan Mississipin varrella ja julkaisee lehteä _The
+Altruist_; Israelin yhdyskunta Texasissa, joka tavoittelee ensimmäisten
+kristittyjen elintapoja; osuustoiminnallinen veljeskunta Burleyssa,
+Wash., joka on jälellä viime vuosikymmenellä Amerikassa perustetusta
+Social Democratic Partysta; yhdenvertaisuusyhdyskunta Washingtonissa
+j.n.e.
+
+Mainittava vielä on muuan yritys, joka tunnetaan nimellä _American
+Co-operative Association_ ja joka ylpeästi on ilmoittanut aikovansa
+paisua kahdenkymmenennen vuosisadan suurliikkeeksi. Sen yhdistyksen
+aikomuksena ei ole kulkea "vastavirtaa kapitalistista lainlaadintaa
+vastustamaan, vaan pysytellä keskellä väylää ja kulkea täydellä
+vauhdilla myötävirtaa, käyttäen apunansa, ei esteinä, niitä lakeja,
+jotka monopooli on saanut aikaan." Tämä merkitsee että se aikoo
+trustiyhdistyksien keinoja käyttäen perustaa mahdottoman suuren
+tuotantoyhteyden, joka tuottamispiiriinsä kokoaa kaiken maailman
+tuotantohaarat, antaa työtä jokaiselle sitä haluavalle ja jakaa
+työntuotteet tasan kaikille jäsenilleen. "Maailmaa käsittävä
+osastokauppa" on siitä yrityksestä syntyvä, niin voimakas että nykyiset
+trustiyhteydet eivät sitä kykene nielemään, vaan se päinvastoin
+nielee ne, kuiviin juoksuttaen niiden markkinapaikat. Yritys on siis
+tavallinen tuotanto-osuuskunta, pöyhkeilevässä muodossa esitetty.
+Yrityksen etunenässä on suuria kauppapomoja, pappeja, porvarillisia
+"ihmisystäviä" y.m. ja sen pääasiallisena sisällyksenä lienee vain
+jonkinlainen vastapainon yritys yhäti nousevaa sosialistista mielialaa
+vastaan. Kommunistisen värityksensä saapi yritys sen kautta että se
+tarkoituksiinsa lukee suuremmoisten siirtolain perustamisenkin, joissa
+kommunistinen yhteiselämä olisi toteutettuna. Jotenkin selvää on
+että jos käytännössä yrityksellä voi sanoa olevan jotakin rehellistä
+tarkoitusta, on se vain uuden suuren komppanian luominen samoille
+perusteille kuin entisetkin ovat.
+
+Huomautettava kaiketi kommunististen yritelmäin joukossa on
+myös suomalainen yritys. Malkosaaren yhteiskunta. Erityisemmin
+ei se eroa muista kommunistisista kokeiluista minkään puolesta;
+yksin sen lopullinen menehtyminenkin johtui samoista syistä kuin
+useampain muiden. Icarialaista liikettä se ulkonaisesti ehkä eniten
+muistuttaa, varsinkin viimeiset vaiheet ovat jotenkin samallaiset
+kuin Nauvoon yhdyskunnan kohtalot. Malkosaaren perustajan Matti
+Kurikan moninaisista aatoksista selvimpänä pistää esille tarkoitus
+että erikoisissa siirtoloissa, "Sointuloissa", voitaisiin kasvattaa
+valiojoukko valistunutta väkeä, samalla kuin siirtolat saatettaisiin
+taloudellisesti tukevalle pohjalle. Kun nämä kaksi tarkoitusperää olisi
+saavutettu, läksisi näistä "Sointuloista" valloitusjoukot maailmalle
+johtajiksi taloudellisiin työn ja kapitaalin välisiin taisteluihin;
+heillä olisi aina selkänojanansa "Sointulat" aineellisina kannattajina,
+eikä heidän sentakia tarvitsisi olla riippuvaisia kapitalisteista.
+Samoin kuin Fourierin Falanksien, piti "Sointuloidenkin" leviämän
+ympäri maailman ja siten muuttaman maailman sopusointuisaksi onnelaksi.
+
+Malkosaaren siirtolan kukistumisen ulkonaiset syyt olivat eripuraisuus
+ja itsekäs johtohimo. Mutta tietysti varsinainen sisällinen syy, joka
+samallaiseen lopputulokseen olisi joka tapauksessa johtanut, oli itse
+ajatuksen mahdottomuus. Kapitalistisen suurtuotannon vaikuttimet
+ovat niin laajat ettei niitä voi korpeenkaan pakenemalla välttää,
+ja niin kauan kuin ne vaikuttimet sekä niiden synnyttäjä, itse
+järjestelmä, ovat olemassa, ei mitään valiojoukkoa ihmisistä voi luoda.
+"Sointulalta" puuttuu siis sen ensimmäiset edellytykset, samoinkuin
+kommunistisilta yhteiskunnilta yleensä.
+
+
+
+
+Havaintoja ja mietelmiä.
+
+
+Muinaisina aikoina, kun kulkuneuvot olivat huonot ja
+yleismaailmallisesta tuotannosta, enemmän kuin yleismaailmallisesta
+kaupastakaan ei mitään tiedetty, vaan jokainen pienempikin yhdyskunta,
+jopa perhekin itse tuotti omat elintarpeensa, olisi viime vuosisadalla
+esiintynyt kommunistinen liike saanut aivan toisen pohjan, kun sitä
+arvostellen olisi katseltu kuin nykyään. Vielä pikkutuotannon aikana,
+ennen suuria keksintöjä, olisi ollut mahdollista toteuttaa aatokset
+erikoisesta muusta maailmasta irrallaan olevasta yhteiskunnasta.
+Kauppatavarata ei siihen aikaan vielä ollut siinä merkityksessä
+kuin nykyään, sillä tuotanto yleensä perustui tilaukseen, ja tavara
+valmistettiin vain siinä määrässä kuin hetkellinen kysyntä vaati. Tällä
+tavalla pienikin yhteiskunta tuli omillaan toimeen, ja kommunistisen
+yhteiskunnan luominenkaan ei silloin olisi erikoisempaa vaikeutta
+kohdannut.
+
+Mutta silloin taas ei ollut itse kommunistisella liikkeellä mitään
+edellytyksiä. Tavallisina aikoina, kun sota, rutto tai kato ei
+ollut ihmiskuntaa kiusaamassa, oli yleinen toimeentulo, sen ajan
+yksinkertaisten vaatimusten rajoissa, kutakuinkin kohtuullinen.
+Varsinainen köyhälistö, ja varsinkin sen alin kurjalisto, on vasta
+suurtuotannon synnyttämä, patriarkkaalisissa oloissa ei sitä luokkana
+tunnettu. Alituinen kärsimys ja kurjuustila ei sentakia myöskään ollut
+niin silmiinpistävä. Ja sitäpaitsi oli raja köyhän ja rikkaan välillä
+sangen himmeä, mahdottomia rikkauksia ei ollut yksilölle kasaantunut ja
+varakkaammatkin katsoivat velvollisuudekseen elää kättensä töistä ja
+otsansa hiessä leipää syödä. Kommunistinen liike, jos sitä olisi vaikka
+mitä pontevamminkin yritetty herättää, ei olisi asiain tällä kannalla
+ollen mitään vastakaikua saanut kansassa, vaan sen olisi ollut pakko
+tukehtua tarpeettomuuteensa.
+
+Mutta kun suurtuotanto oli syntynyt, sorti se nopeasti pikku mestarit
+palkkalaisiksi, ajoi lukemattomat pikku tilalliset ja maalaistyöväestön
+tehtaisiin ja siten synnytti erikoisen kansanluokan jolla koskaan ei
+ollut toivoa palkkalaisasemasta kohota työnantajaksi, kuten laita oli
+ollut vielä pikkutuotannon vallitessa. Ja samalla se myös synnytti
+luokkasodan, jossa melkein säännöllisesti palkkalaisjoukko joutui
+tappiolle. Samalla hallitus laati lakeja työväestön kurissa pitämiseksi
+ja siten yhä enemmän painoi toiveita joita palkkalaisissa saattoi olla
+oman tilansa parantamisen suhteen. Ja samassa määrässä kuin ne toiveet
+huononivat, kohosi tiedon levitessä parempain olosuhteiden kaipuu
+synnyttäen usein vaistomaista epätoivoa koko yhteiskuntarakenteen
+parantamismahdollisuuksien suhteen. Työväestö näki kohtuullisimpiinkin
+toivomuksiinsa ja vaatimuksiinsa vastattavan vain pilkalla ja
+pakkosakoilla isäntien puolelta ja viattomimpienkin tekojen varalle oli
+olemassa hallitus ja laki joka sääti vankeutta ja julmia rangaistuksia
+sille joka vain oikeuttansa etsi.
+
+Aivan luonnollista oli että tällainen asiain tila ensiksikin synnytti
+aatoksen kommunistisesta yhteiskunnasta ja että se aatos sitten
+niin mahtavan vastakaiun aikaansai sekä työväestön keskuudessa että
+senlaisissakin ihmisissä, joita isäntien eduskunnan ja hallituksen
+julkea puolueellisuus alkoi ällöttää. Kommunististen aatosten
+leviäminen synnytti jälleen yhtä kiihkeän halun niiden käytännölliseen
+toimeenpanemiseen. Olivathan ne aatteet niin helpot toteuttaa!
+Lupasivathan ne niin tavattoman paljon! Kaikki kurjuus, johon
+voitonhimo oli ihmiskunnan vaivuttanut, oli poistuva; kaikki vääryys,
+jota oli saatu kokea, oli väistyvä veljellisen yhteistoiminnan tieltä!
+Ja kun kerran yksikin veljeskunta oli perustettu, oli esimerkki uusia
+synnyttävä, maailma oli vähitellen pelastuva suurtuotannon tuottamasta
+pahasta ja vain sen hyvät puolet jäisivät vaikuttamaan!
+
+Mutta maailmapa ei ollutkaan enää sama maailma kuin ennen
+pikkuteollisuuden vallitessa. Suurtuotanto oli ehtinyt hävittää
+yksityisten yhteiskuntien omintakeisuuden ja luonut maailmasta
+elimillisen tuotantokokonaisuuden, joka ei sietänyt mitään yksityisiä
+omistaan eläviä yhdyskuntia. Oli syntynyt maailmaan kauppatavara, jota
+ei valmistettu enää kysynnän ja kulutuksen mukaan, vaan alituisesti,
+sen kun koneisto ehti. Eikä tätä kauppatavaraa myyty enää vain oman
+tuvan pieluksilla, vaan yhä nouseva kilpailukiihko, joka muodostui
+varsinaiseksi kauppasodan käynniksi eri tuotantoyhteyksien ja eri
+kansojen välillä, sekä alati kasvava tuotannon suuruus pakotti etsimään
+markkinapaikkoja joka maailman kolkalta. Missä vain ihmisiä asusti,
+sinne myös kauppatavara tiensä löysi. Ja missä uusi tuotantoyhteys
+syntyi, siellä kilpailun vimma pakotti taisteluun elämästä ja
+kuolemasta.
+
+Tällä mahdottoman suurella tuotantovoimalla joka eteenpäin kulki
+samallaisella möhkälepuristuksella kuin jäämassa koskessa keväällä
+kulkee, oli ja yhä on vastustamaton taipumus kasata yhteen suuret
+tuotantohaarat, aivan kuin se vaistomaisesti pelkäisi kiihkoisan
+kilpailun kokonaan hävittävän sen oman olemuksen. Sillä tämä
+tuotantohaarojen yhteen kasaantuminen merkitsee juuri kilpailun
+kukistamista, ja se on yhtä luonteenomainen suurtuotannolle sen
+edelleen kehityksessä kuin itse vapaa kilpailu on ehdoton edellytys
+suurtuotannon alkamiselle. Taipumus poistamaan kilpailua tuotannosta
+on jälleen se mahtava voima joka tekee mahdottomaksi kilpailevan
+tuotantojärjestelmän valtaan pääsemisen suurtuotannon sivulla.
+Sillä yhtä mahdotonta kuin on yksityisen tehtailijan tulla toimeen
+kilpailussa suurtrustin kanssa, yhtä mahdotonta on minkään uuden
+järjestelmän saada jalansijaa suurtuotantojärjestelmän rinnalla. Se
+nielee kokeilut ehdottomasti, sillä se tarvitsee toimeen tullakseen
+jokaisen kolkan maan pinnalta jotka se jo onkin itsellensä anastanut.
+
+Tällaisessa yhteiskunnassa oli tietysti kommunististen aatteiden
+mahdoton toteutua. Tarkoituksena nyt oli luoda yhteiskunta tämän
+äärettömän tuotantovoiman ulkopuolelle katkasta sen yhteys ehdottomasti
+maailmasta, mutta toteuttaa kuitenkin pienoiskoossa kaikki ne suuret
+keksinnöt, edistykset, sivistyksen tulokset, mitä vuosituhansien
+kuluessa ihmiskunta oli voittanut. Aikomuksena oli katkaista yhteys
+toisten ihmisten kanssa aikana, jolloin jo jokainen lähimmäisestään
+riippui, jolloin koko maailma pysyi pystyssä sen nojalla että itse
+kukin — tai suurin osa, työväestö teki työtä kaivoksissa, tehtaissa,
+pelloilla, niityillä, rautateillä, valtamerillä, jolloin kaikkia näitä
+töitä ja kaikkia näitä työpaikkoja tarvittiin ehdottomasti ihmiskunnan
+toimeentulon tuotannossa. Kommunistien korviin täytyi joka aika kuulua
+kohina siitä mahdottomasta työstä ja toiminnasta mitä maailmassa
+suoritettiin ja heidän täytyi raskaissa ponnistuksissaan alituisesti
+huomata voimain ja ainesten puutteen, jota ulkopuolella taas oli yllin
+kyllin. Kokeilujen tuloksena täytyi olla vain köyhyyden tapaaminen
+kaikkialla ja lopulta selvä huomio siitä että jos yritys ja kokeilu
+onnistuisikin, jos heidän onnistuisi erottautua maailmasta itsenäiseksi
+yhdyskunnaksi, täytyisi heidän kehityksensä kulkea taaksepäin
+raakalaisuuden kannalle, koska ainesten ja edellytysten köyhyys
+pakotti luopumaan jo saavutettuja sivistyksen voittoja käyttämästä ja
+turvautumaan alkuperäisiin muinaiskeinoihin.
+
+Kommunistisessa liikkeessä me tällä tavalla tapaamme kahdenkertaisen
+kehityksen huipun. Toisella tiellä kommunistit ehdottomasti pitivät
+kiinni alkuperäisistä aatteistaan tavattomilla ponnistuksilla
+pyrkien kohti unelmoitua ihanneyhteiskuntaa; tuloksena oli ehdoton
+häviö verraten lyhytaikaisen toiminnan jälkeen. Toisella tiellä
+jälleen näemme kommunistien esteitä, pettymyksistä ja tappioista
+oppivan tinkimään omien periaatteittensa ja unelmainsa kanssa ja
+menestyvän sitä paremmin mitä enemmän he tinkiessään saivat työnnettyä
+syrjään aatettansa. Mutta sillä tiellä he myös lopulta luisuvat
+pois koko polultansa ja pääsevät tavallisen osakeyhtiön rajoihin ja
+tuotantotoimintaansa ajavat aivan kapitalististen tuotantosääntöjen
+mukaan. Valittavana on vain kaksi ehtoa: joko kulkea vastarintaan
+ja väsyä tai kääntyä myötävirtaan — ihanteista todellisuuteen.
+Onnistumisen mahdollisuutta ei ole, voi vain hukkua tai palata.
+
+Mutta kommunistisen liikkeen tuloksia ei silti saa vähäisiksi
+arvostella, sillä liikkeellä on ihmisluonteen ja taloudellisen elämän
+ymmärtämisessä sangen suuria ansioita. Yhä vieläkin kuullaan useasti
+väitettävän että ihmisten keskinäinen kilpailu toimeentulosta on
+muka ainoa nerokkuuden ja uutteruuden lähde. Jos todella tämä väite
+paikkansa pitäisi, olisi ihmiskunnan tulevaisuus sangen lohdutonta.
+Sillä kapitalistinen tuotantojärjestelmä, kuten jo ylempänä
+huomautettiin, pyrkii ehdottomasti kaiken kilpailun hävittämään ja
+muuttamaan tuotannon yhteiskunnalliseksi prosessiksi, joka riippuu
+kokonaan yksilöitten uutteruudesta. Sen yksilöllistä luonnetta osottaa
+enää yksityinen omistus, joka sekin jo siinä määrässä on hävinnyt
+ettei voida enää paljon puhua yksityisistä suurtuottajista, vaan
+suurtuottajain luokasta, osakkeen omistajista. Seuraava askel jo on se
+asiain tila jolloin koko kansa kuuluu näihin osakkeenomistajiin, eikä
+silloin tietysti voi puhetta olla kilpailusta. Kilpailu häviää siis
+tuotannosta aivan luonnollisessa järjestyksessä, ja jos se vain olisi
+uutteruuden ja nerokkuuden kannattajana tässä maailmassa, saisimme
+jo lähimmässä tulevaisuudessa valmistautua vastaan ottamaan näiden
+ominaisuuksien häviämistä maailmasta.
+
+Onneksi ei sellaista epätoivoa tarvitse pelätä. Edistyminen ja kehitys,
+sen mukana uutteruus ja nerokkuuskin, ovat ihmisluonteen, samoinkuin
+koko luonnon syntyperäisiä ominaisuuksia, jotka eivät häviä minkään
+erikoisen järjestelmän mukana. Ja kommunistisen liikkeen kokemuksissa
+on meillä osittain käytännöllisiä todistuksia tästä seikasta. Vaikka
+nimittäin kommunistisissa yhteiskunnissa kellään yksilöllä ei ollut
+yksinomaista persoonallista etua uutteruudestaan ja toimekkuudestaan,
+osottavat kuitenkin kaikkien kertomukset että siellä ei ollut laiskoja
+vetelyksiä ollenkaan, vaan kaikki olivat uutteria. Vieläpä väittävät
+monet kokemuksista tietonsa saaneet että näissä yhteiskunnissa
+osottivat hämmästyttävässä määrässä erikoisominaisuuksia sellaisetkin
+henkilöt, joilta ei tavallisessa elämässä olisi saanut mitään
+puristetuksi. Eikä siinä ole mitään merkillistä. Kun asiat ovat sillä
+kannalla että mitkään ulkonaiset olosuhteet eivät ole ihmisen kehitystä
+ja vapaata valintaa estämässä, on varmaa että ketään sellaista ei ole,
+jolla ei taipumuksia olisi ja halua hyödylliseen toimeen. Sellaiset
+käsitteet kuin laiskuus ja ahkeruus ovat tuotantojärjestelmän hedelmiä,
+joka vapaan kehitysmahdollisuuden ja valintavallan yksilöiltä riistää.
+
+Tunnettu amerikalainen kirjailija Charles Nordhoff on persoonalliset
+kokemuksensa kommunistiyhteiskunnista sovittanut seuraaviin
+ponsilauseisiin:
+
+"Kommunistit eivät raada järjettömästi."
+
+"Kommunistiyhteiskunnassa ei ole kukaan jäsen palvelija."
+
+"Kommunistin elämä on täynnä mietelmiä persoonallisen helppouden ja
+mukavuuden edistämiseksi."
+
+"Kommunistit eivät ole laiskoja."
+
+"Kommunistit ovat rehellisiä."
+
+"He ovat ihmisystävällisiä ja armeliaita."
+
+"Kommunistit elävät hyvin ja paljon terveellisemmissä olosuhteissa kuin
+tavallinen maanviljelijä."
+
+"Kommunistit ovat raittiita, ja juoppous on heidän kesken tuntematonta."
+
+"Kommunisteja hoidetaan huolellisesti, kun ovat sairaina ja vanhoina
+päivinä heidän elämänsä muodostetaan kevyeksi ja miellyttäväksi."
+
+"Kommunistit ovat pitkäikäisimmät kansamme seassa."
+
+"Kukaan kommunisti ei tee omaisuuden kokoamisesta elämänsä päätehtävää;
+heillä ei ole mitään kiirettä rikkaaksi tulemisessa."
+
+"Kommunismielämä varaa suurempia vaihtelevaisuuksia toiminnassa itse
+kullekin yksilölle ja siten lisää ihmisten taitoja ja laajentaa
+mahdollisuuksia."
+
+"Se tarjoo laajemmassa asteikossa terveellisiä nautintoja ja myös
+vankempia rajoja turmelevia huvituksia vastaan."
+
+"Se antaa itsenäisyyttä ja teroittaa mieliin järkevyyttä ja
+huolellisuutta; se vaatii itseuhrausta ja estää itsekkyyttä ja
+kateutta; ja siten lisääntyy onnellisuus joka johtuu ihmisluonteen
+moraalisesta puolesta."
+
+"Se vapauttaa yksilön elämän suuresta tuskallisten huolien
+joukosta, ylityön välttämättömyydestä ja uuvuttavasta raadannasta
+ja onnettomuuden pelosta sekä vanhuuden päivien häpeällisestä
+armeliaisuudesta."
+
+"Vertaillessani tyytyväisen ja varakkaan, se on onnistuneen kommunistin
+elämää tavallisen maanviljelijän tai mekaniikon elämään meidänkin
+varakkaassa maassamme, taikka etenkin työmiesten ja heidän perheittensä
+elämään etenkin suurkaupungeissamme, täytyy minun tunnustaa että
+kommunistin elämä on niin paljon vapaampaa huolista ja epäonnistumisen
+uhasta, niin paljon helpompaa, niin paljon parempaa monin tavoin ja
+kaikissa aineellisissa suhteissa, että minä vilpittömästi toivon sen
+edelleen kehittyvän Yhdysvalloissa."
+
+Näissä huomioissa on epäilemättä paljon totta, vaikka ne ovatkin
+kirjoitetut aikana, jolloin kommunististen kokeilujen mahdollisuuksista
+saattoi vielä puhua, ja sivuuttaen asianhaarat joita kapitalistisen
+tuotantojärjestelmän kehitys ei vielä ollut selvinä esille loihtinut.
+W.A. Hinds, toinen Amerikan kommunismin historioitsija, löytää
+kommunismista m.m. seuraavia johtopäätöksiä:
+
+"Että omaisuuden yksilöllinen omistaminen ei ole oleellista
+teollisuudessa eikä monimutkaisen liikkeen tehokkaassa ajamisessa."
+
+"Että kurjuudella ja löysäläisyydellä, jotka ovat yksilöllisen omistus
+ja kilpailujärjestelmän välttämättömiä tuloksia, sen kautta kun toiset
+tulevat äärettömän rikkaiksi, toiset äärettömän köyhiksi, ei ole mitään
+tilaa kommunismissa."
+
+"Että käräjöiminen ja muut kalliit pahat, jotka ovat yksityisomaisuuden
+välttämättömiä seuraajia, häviävät täysin kommunistisista
+yhteiskunnista."
+
+"Että siveellisen, henkisen ja sielullisen sivistyksen välikappaleet
+voidaan kommunistisessa yhteiskunnassa saattaa jokaisen jäsenen
+ulottuville."
+
+"Että kommunismi lisää tuottajain lukua ja vähentää samassa suhteessa
+ei-tuottajain lukua, ja on sillä tässä sekä muissa suhteissa suuria
+taloudellisia etuja yksilöllisyyden rinnalla."
+
+Paitsi näitä ja muita kokemuksellisia tuloksia kommunismista, saattaisi
+vielä luetella koko jonon sellaisia jotka eivät ole seurauksia
+kommunismista, vaikka niitä itsepintaisesti tahdotaan kommunismin
+tiliin merkitä. Vaikeimpana syntinä kirkollisuuden puolelta on
+kommunistisen liikkeen niskoille sälytetty se erilainen uskonnollinen
+katsantokanta joka jokaisessa kommunistiliikkeessä on. Mikään niistä
+nimittäin ei ole taipunut vallitsevien kirkkojen puhdasoppisuuteen,
+vaan on muodostanut oman uskonnollisen käsityksensä joko jonkun
+lahkon oppisuunnan mukaan tai itsenäisesti koko kristillisen kirkon
+ajatuskannasta poikkeavaksi. Siitä johtuvat ne katkerat vihamieliset
+hyökkäykset joita kommunista liikettä vastaan on aikojen kuluessa tehty
+ja jotka ovat kristillisessä maailmassa saaneet jonkinlaisen kammon
+koko kommunismin nimeä vastaan.
+
+Kaikesta tästä huolimatta itse kommunistisessa aatteessa on jotakin
+niin suurta ylevää, jaloa ja niin paljon ihmisten keskinäistä rakkautta
+sisältäviä piirteitä että kristillinen kirkko, lukemalla pois sen
+ensimmäiset olemassaoloajat, ei ole milloinkaan kyennyt sellaista
+tuskin osottamaan, vielä vähemmin toteuttamaan. Itse kommunismin
+perusajatus, joka sisältää sen että käsitteet "minun" ja "sinun"
+väistyvät pois "meidän" tieltä, on niin peräti luonnollinen ja se
+jokaisen ihmisen sydämmessä herättää suloista vastakaikua että on
+vaikeata syvemmin ajatellen käsittää, miten ollenkaan kommunismi
+nimelle on voinut tulla se ruma väritys, jota kirkko sille aina
+on tahtonut työntää. Jos mikään on sopivainen pohja tulevalle
+haaveksitulle "tuhatvuotiselle valtakunnalle". niin on se juuri
+kommunistinen aatos, sillä se on niin puhdas kaikesta siitä mikä
+huonoksi ihmisluonteessa tunnetaan. Ja jos milloinkaan inhimillinen
+yhteiskunta omaksuu veljeyden olemuksensa kannattajaksi, niin on
+kommunismilla ensimmäinen oikeus ja myös välttämättömyys toteutua.
+
+Mutta sittenkin, me emme nyt elä veljeyden aikakaudessa, vaan
+päinvastoin vihan, itsekkäisyyden ja voitonhimon aikakautena. Ja
+sellaisena aikakautena saarnat veljeydestä eivät merkitse mitään,
+ellei samalla muutosta tapahdu niissä olosuhteissa jotka kaikkea
+veljeyttä vastustavat. Nälkäisen joukon ensimmäisenä ihanteena on nälän
+tyydyttäminen, veljeyden saarna ei sitä ravitse. Janoovalle on juomaa
+ensin annettava, ennenkuin hänen ihannepyrkimyksensä voi korkeammalle
+ulettua. Ivalta tuntuu keskinäisen rakkauden kehoitus ihmispoloisille,
+joiden henki riippuu siitä että saa yksin syödä tarjona olevan aterian.
+Tuntehikkainkin silloin menettää tunteensa ja eläimeksi muuttuu.
+Onko meillä siis oikeutta mitään parannusta saarnata, ennenkuin on
+mahdollisuudet valmistettu parantumiselle? On varmaankin, mutta vain
+sillä edellytyksellä että samalla paljastetaan ne välttämättömät
+edellytykset, joiden kaiken parannuksen edellä pitää käymän.
+
+Sillä vasta sitten ihminen parantua voi, kun yhteiskunta on sen
+arvoinen että siinä ihmissuku voi parantuneena toimeen tulla.
+
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK 75354 ***
