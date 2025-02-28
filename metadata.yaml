@@ -1,5 +1,8 @@
 _repo: Suuret-haaveilijat-b-Heidan-oppinsa-ja-kokeilunsa_75354
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Murros, Kaapo
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48786
     wikipedia: https://fi.wikipedia.org/wiki/Kaapo_Murros
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75354#Suuret-haaveilijat-b-Heidan-oppinsa-ja-kokeilunsa
 gutenberg_issued: '2025-02-12'
 gutenberg_type: Text
 identifiers:
